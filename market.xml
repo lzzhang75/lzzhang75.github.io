@@ -1,35 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Sample Feed (created with ROME)</title>
     <link>http://pixelbotstudios.com</link>
     <description>This feed has been created using ROME (Java syndication utilities</description>
     <item>
-      <title>Bitcoin drops 9%, nears crucial make-or-break level of $9,000 - CNBC Technology</title>
-      <link>https://www.cnbc.com/2018/02/01/bitcoin-drops-9-percent-nears-crucial-make-or-break-level-of-9000.html</link>
-      <description>Bitcoin drops to just above $9,000, a critical level of support that many analysts are watching.</description>
-      <pubDate>Thu, 01 Feb 2018 13:41:00 GMT</pubDate>
-      <guid>https://www.cnbc.com/2018/02/01/bitcoin-drops-9-percent-nears-crucial-make-or-break-level-of-9000.html</guid>
-      <dc:creator>CNBC Technology</dc:creator>
-      <dc:date>2018-02-01T13:41:00Z</dc:date>
+      <title>CryptoWatch: No letup for bitcoin as cryptocurrency drops further below $9,000  - Market Watch Top Stories</title>
+      <link>http://www.marketwatch.com/news/story.asp?guid=%7B34C28D86-07DB-11E8-A0F4-FEB60157680B%7D&amp;siteid=rss&amp;rss=1</link>
+      <description>Bitcoin was threatening to drop to $8,000 on Friday as selling pressure seen this week shows no signs of letting up.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.marketwatch.com/~ff/marketwatch/topstories?a=htZ0IezGOMo:EdbvlHRJf08:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/marketwatch/topstories?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.marketwatch.com/~ff/marketwatch/topstories?a=htZ0IezGOMo:EdbvlHRJf08:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/marketwatch/topstories?i=htZ0IezGOMo:EdbvlHRJf08:F7zBnMyn0Lo" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.marketwatch.com/~ff/marketwatch/topstories?a=htZ0IezGOMo:EdbvlHRJf08:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/marketwatch/topstories?i=htZ0IezGOMo:EdbvlHRJf08:V_sGLiPBpWU" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.marketwatch.com/~ff/marketwatch/topstories?a=htZ0IezGOMo:EdbvlHRJf08:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/marketwatch/topstories?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/marketwatch/topstories/~4/htZ0IezGOMo" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Fri, 02 Feb 2018 07:34:45 GMT</pubDate>
+      <guid>http://www.marketwatch.com/news/story.asp?guid=%7B34C28D86-07DB-11E8-A0F4-FEB60157680B%7D&amp;siteid=rss&amp;rss=1</guid>
+      <dc:creator>Market Watch Top Stories</dc:creator>
+      <dc:date>2018-02-02T07:34:45Z</dc:date>
+      <media:content url="http://s.marketwatch.com/public/resources/MWimages/MW-FP924_bitcoi_ZG_20170709224914.jpg">
+        <media:thumbnail url="http://s.marketwatch.com/public/resources/MWimages/MW-FP924_bitcoi_ZG_20170709224914.jpg" />
+      </media:content>
     </item>
     <item>
-      <title>Samsung is cashing in on bitcoin mining - CNN Money</title>
-      <link>http://rss.cnn.com/~r/rss/money_technology/~3/P6M7LVuk3Os/index.html</link>
-      <description>Samsung is getting in on the cryptocurrency craze.&lt;img src="http://feeds.feedburner.com/~r/rss/money_technology/~4/P6M7LVuk3Os" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Thu, 01 Feb 2018 11:19:54 GMT</pubDate>
-      <guid>http://rss.cnn.com/~r/rss/money_technology/~3/P6M7LVuk3Os/index.html</guid>
-      <dc:creator>CNN Money</dc:creator>
-      <dc:date>2018-02-01T11:19:54Z</dc:date>
+      <title>Over $100 billion wiped off global cryptocurrency market in 24 hours  - CNBC Technology</title>
+      <link>https://www.cnbc.com/2018/02/02/bitcoin-ethereum-ripple-price-falls-over-100-billion-wiped-off-global-cryptocurrency-market.html</link>
+      <description>Bitcoin, ethereum and ripple all saw their prices tank.</description>
+      <pubDate>Fri, 02 Feb 2018 07:17:00 GMT</pubDate>
+      <guid>https://www.cnbc.com/2018/02/02/bitcoin-ethereum-ripple-price-falls-over-100-billion-wiped-off-global-cryptocurrency-market.html</guid>
+      <dc:creator>CNBC Technology</dc:creator>
+      <dc:date>2018-02-02T07:17:00Z</dc:date>
+      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/12/22/104914185-RTX3WHWE.1910x1000.jpg">
+        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/12/22/104914185-RTX3WHWE.1910x1000.jpg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Japanese cryptocurrency exchanges in the spotlight after $500 million hack - CNBC Technology</title>
+      <link>https://www.cnbc.com/2018/02/01/japanese-cyrptocurrency-exchanges-to-submit-risk-reports-after-massive-hack.html</link>
+      <description>Japan&amp;#039;s financial regulator said on Friday it had ordered all cyrptocurrency exchanges to submit a report on their system risk management.</description>
+      <pubDate>Fri, 02 Feb 2018 02:35:00 GMT</pubDate>
+      <guid>https://www.cnbc.com/2018/02/01/japanese-cyrptocurrency-exchanges-to-submit-risk-reports-after-massive-hack.html</guid>
+      <dc:creator>CNBC Technology</dc:creator>
+      <dc:date>2018-02-02T02:35:00Z</dc:date>
+      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/28/104973024-gallery-02.1910x1000.jpg">
+        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/28/104973024-gallery-02.1910x1000.jpg" />
+      </media:content>
+    </item>
+    <item>
+      <title>The sad state of crypto custody - Techcrunch</title>
+      <link>http://feedproxy.google.com/~r/Techcrunch/~3/grjCqInWhCM/</link>
+      <description>&lt;img width="680" height="400" src="https://tctechcrunch2011.files.wordpress.com/2018/01/8355518561_f5db09f644_b.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2018/01/8355518561_f5db09f644_b.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2018/01/8355518561_f5db09f644_b.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2018/01/8355518561_f5db09f644_b.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2018/01/8355518561_f5db09f644_b.jpg?w=768 768w, https://tctechcrunch2011.files.wordpress.com/2018/01/8355518561_f5db09f644_b.jpg 800w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Not a week goes by without another report of bad news in the crypto world: funds get lost, stolen or compromised with little or no possibility of recovery. This is a problem we don&amp;#8217;t really have with typical fiat money &amp;#8212; where our funds and banks are insured. And it highlights how broken the current state of affairs is in the industry. &lt;a href="https://techcrunch.com/2018/02/01/the-sad-state-of-crypto-custody/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=grjCqInWhCM:IXEHYpt-R5I:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=grjCqInWhCM:IXEHYpt-R5I:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=grjCqInWhCM:IXEHYpt-R5I:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=grjCqInWhCM:IXEHYpt-R5I:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=grjCqInWhCM:IXEHYpt-R5I:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=grjCqInWhCM:IXEHYpt-R5I:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=grjCqInWhCM:IXEHYpt-R5I:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=grjCqInWhCM:IXEHYpt-R5I:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/grjCqInWhCM" height="1" width="1" alt=""/&gt;</description>
+      <pubDate>Thu, 01 Feb 2018 20:30:35 GMT</pubDate>
+      <guid>http://feedproxy.google.com/~r/Techcrunch/~3/grjCqInWhCM/</guid>
+      <dc:creator>Techcrunch</dc:creator>
+      <dc:date>2018-02-01T20:30:35Z</dc:date>
+      <media:content url="https://tctechcrunch2011.files.wordpress.com/2018/01/8355518561_f5db09f644_b.jpg">
+        <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2018/01/8355518561_f5db09f644_b.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Worries Grow That the Price of Bitcoin Is Being Propped Up - NY Time Technology</title>
       <link>https://www.nytimes.com/2018/01/31/technology/bitfinex-bitcoin-price.html?partner=rss&amp;emc=rss</link>
       <description>When the price of Bitcoin goes down, activity on an influential exchange pumps it back up. That has investors and regulators asking questions.</description>
-      <pubDate>Thu, 01 Feb 2018 05:16:50 GMT</pubDate>
+      <pubDate>Thu, 01 Feb 2018 16:23:03 GMT</pubDate>
       <guid>https://www.nytimes.com/2018/01/31/technology/bitfinex-bitcoin-price.html?partner=rss&amp;emc=rss</guid>
       <dc:creator>NY Time Technology</dc:creator>
-      <dc:date>2018-02-01T05:16:50Z</dc:date>
+      <dc:date>2018-02-01T16:23:03Z</dc:date>
+      <media:content url="https://static01.nyt.com/images/2018/02/01/business/01BITCOIN/01BITCOIN-facebookJumbo.jpg">
+        <media:thumbnail url="https://static01.nyt.com/images/2018/02/01/business/01BITCOIN/01BITCOIN-facebookJumbo.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Line is launching its own bitcoin exchange - CNN Money</title>
@@ -39,6 +76,9 @@
       <guid>http://rss.cnn.com/~r/rss/money_technology/~3/ZCDAUhcYwWk/index.html</guid>
       <dc:creator>CNN Money</dc:creator>
       <dc:date>2018-01-31T08:35:30Z</dc:date>
+      <media:content url="http://i2.cdn.turner.com/money/dam/assets/171127052529-bitcoin-market-780x439.jpg">
+        <media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/171127052529-bitcoin-market-780x439.jpg" />
+      </media:content>
     </item>
     <item>
       <title>The Shift: Kodak’s Dubious Cryptocurrency Gamble - NY Time Technology</title>
@@ -48,6 +88,9 @@
       <guid>https://www.nytimes.com/2018/01/30/technology/kodak-blockchain-bitcoin.html?partner=rss&amp;emc=rss</guid>
       <dc:creator>NY Time Technology</dc:creator>
       <dc:date>2018-01-31T00:28:31Z</dc:date>
+      <media:content url="https://static01.nyt.com/images/2018/01/30/business/30ROOSE-3/30ROOSE-3-facebookJumbo.jpg">
+        <media:thumbnail url="https://static01.nyt.com/images/2018/01/30/business/30ROOSE-3/30ROOSE-3-facebookJumbo.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Facebook Bans Ads for Bitcoin and Other Cryptocurrencies - NY Time Technology</title>
@@ -57,6 +100,9 @@
       <guid>https://www.nytimes.com/2018/01/30/technology/facebook-cryptocurrency-ads.html?partner=rss&amp;emc=rss</guid>
       <dc:creator>NY Time Technology</dc:creator>
       <dc:date>2018-01-30T21:47:13Z</dc:date>
+      <media:content url="https://static01.nyt.com/images/2018/01/31/business/31FBCRYPTO1/31FBCRYPTO1-facebookJumbo.jpg">
+        <media:thumbnail url="https://static01.nyt.com/images/2018/01/31/business/31FBCRYPTO1/31FBCRYPTO1-facebookJumbo.jpg" />
+      </media:content>
     </item>
   </channel>
 </rss>
