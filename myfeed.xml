@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Sample Feed (created with ROME)</title>
     <link>http://pixelbotstudios.com</link>
     <description>This feed has been created using ROME (Java syndication utilities</description>
+    <item>
+      <title>Trading Tip `The Wall´ – I Was Wrong - bitcoin.com News</title>
+      <link>https://news.bitcoin.com/trading-tip-the-wall-i-was-wrong/</link>
+      <description>&lt;p&gt;&lt;img width="696" height="696" src="https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08-768x768.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Trading Tip `The Wall´ - I Was Wrong" style="float:left; margin:0 15px 15px 0;" srcset="https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08-768x768.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08-150x150.jpg 150w, https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08-300x300.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08-1024x1024.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08-696x696.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08-1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08-420x420.jpg 420w, https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08.jpg 1100w" sizes="(max-width: 696px) 100vw, 696px" /&gt;Last week, I made an analysis of the bitcoin price situation. My analysis noted that while the rumors of Wall Street price manipulation was most likely false, the fear was real. Despite that, the price did not break under $10,000. Because my inclination towards bitcoin is bullish (based on the the positive sentiment around the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://news.bitcoin.com/trading-tip-the-wall-i-was-wrong/"&gt;Trading Tip `The Wall´ &amp;#8211; I Was Wrong&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://news.bitcoin.com"&gt;Bitcoin News&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Sat, 03 Feb 2018 21:45:51 GMT</pubDate>
+      <guid>https://news.bitcoin.com/trading-tip-the-wall-i-was-wrong/</guid>
+      <dc:creator>bitcoin.com News</dc:creator>
+      <dc:date>2018-02-03T21:45:51Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08.jpg">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/02/photo_2018-02-03_10-39-08.jpg" />
+      </media:content>
+    </item>
     <item>
       <title>Big Banks Ban Bitcoin Buys – JPMorgan, Bank of America, Citigroup Say No to Crypto Credit Purchases - bitcoinist.com</title>
       <link>https://bitcoinist.com/big-banks-ban-bitcoin-buys-jpmorgan-bank-america-citigroup-say-no-crypto-credit-purchases/</link>
@@ -16,6 +29,9 @@
       <guid>https://bitcoinist.com/big-banks-ban-bitcoin-buys-jpmorgan-bank-america-citigroup-say-no-crypto-credit-purchases/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T21:00:48Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2017/09/reut-jpmorgan-cover.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2017/09/reut-jpmorgan-cover.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Russia Urges 4 Other Countries to Develop Common Approach to Cryptocurrencies - bitcoin.com News</title>
@@ -26,6 +42,9 @@
       <guid>https://news.bitcoin.com/russia-urges-countries-develop-common-approach-cryptocurrencies/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T21:00:09Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/02/russian-pm-banner.png">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/02/russian-pm-banner.png" />
+      </media:content>
     </item>
     <item>
       <title>J.P. Morgan Chase and Bank of America Ban Credit Card Crypto Purchases - Cryptocurrency News</title>
@@ -51,6 +70,9 @@
       <guid>https://cryptocurrencynews.com/daily-news/chase-bank-america-ban-crypto-purchases/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-03T20:41:33Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Screenshot-2018-02-03-at-12.32.38-PM-Edited.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Screenshot-2018-02-03-at-12.32.38-PM-Edited.png" />
+      </media:content>
     </item>
     <item>
       <title>Ledger Addresses Man in the Middle Attack That Threatens Millions of Hardware Wallets - bitcoin.com News</title>
@@ -61,6 +83,9 @@
       <guid>https://news.bitcoin.com/ledger-addresses-man-in-the-middle-attack-that-threatens-millions-of-hardware-wallets/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T19:30:00Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/02/ledger-wallet.jpg">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/02/ledger-wallet.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Lisk Price Jumps 20% On Huobi Exchange Listing - CryptoCoins News</title>
@@ -72,6 +97,9 @@
       <guid>https://www.ccn.com/lisk-jumps-20-on-huobi-exchange-listing-on-heels-of-bitflyer-listing/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T19:23:03Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2017/02/hurdle-jump.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2017/02/hurdle-jump.jpg" />
+      </media:content>
     </item>
     <item>
       <title>CoinLoan ICO Reaches Major Milestones as it Launches MVP and Enables Direct Fiat Investment - Coin Speaker</title>
@@ -94,6 +122,9 @@
       <guid>https://news.bitcoin.com/pr-first-cryptomarketplace-storiqa-has-raised-25-million/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T18:30:22Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/01/smm_1200x700_25mln_01-1.png">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/01/smm_1200x700_25mln_01-1.png" />
+      </media:content>
     </item>
     <item>
       <title>Cardano (ADA), Litecoin (LTC), and Tron (TRX) Lead the Comeback - Cryptocurrency News</title>
@@ -117,6 +148,9 @@
       <guid>https://cryptocurrencynews.com/altcoins/cardano-ada-litecoin-ltc-tron-trx-comeback/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-03T18:16:36Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Screenshot-2018-02-03-at-10.57.01-AM-Edited.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Screenshot-2018-02-03-at-10.57.01-AM-Edited.png" />
+      </media:content>
     </item>
     <item>
       <title>fidentiax and iXledger Announce Initiatives to Benefit Stakeholders of Both Marketplace - CryptoCoins News</title>
@@ -128,6 +162,9 @@
       <guid>https://www.ccn.com/fidentiax-ixledger-announce-initiatives-benefit-stakeholders-marketplace/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T18:13:10Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/fid.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/fid.jpg" />
+      </media:content>
     </item>
     <item>
       <title>J.P. Morgan Chase Bans Buying Cryptocurrency With Credit Cards - Cointelegraph</title>
@@ -138,6 +175,9 @@
       <guid>https://cointelegraph.com/news/jp-morgan-chase-bans-buying-cryptocurrency-with-credit-cards</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-03T18:10:59Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZDczMWVhYjBjZWFlZDUxZjhmZTZhMDVhZThmYTVhMy5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZDczMWVhYjBjZWFlZDUxZjhmZTZhMDVhZThmYTVhMy5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>India’s Finance Minister Confirms Crypto Not Recognized as Legal Tender, Media Panics - bitcoin.com News</title>
@@ -149,6 +189,9 @@
       <guid>https://news.bitcoin.com/indias-finance-minister-confirms-crypto-not-recognized-legal-tender-media-panics/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T18:05:08Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_575254366.jpg">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_575254366.jpg" />
+      </media:content>
     </item>
     <item>
       <title>SportyCo Scores Big with RCD Espanyol Sponsorship - bitcoinist.com</title>
@@ -160,6 +203,9 @@
       <guid>https://bitcoinist.com/sportyco-scores-big-rcd-espanyol-sponsorship/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T18:00:46Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2018/02/sportyco-rcd-cover.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2018/02/sportyco-rcd-cover.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Crypto Dip Humbles South Korean Bitcoin Premium - Cointelegraph</title>
@@ -171,6 +217,9 @@
       <guid>https://cointelegraph.com/news/crypto-dip-humbles-south-korean-bitcoin-premium</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-03T17:46:30Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yN2RhNTNlZTQ5MDBkYmUwZGI0Y2FjMTMwZTE2MWQzZi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yN2RhNTNlZTQ5MDBkYmUwZGI0Y2FjMTMwZTE2MWQzZi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Those ‘Crypto Genius’ Ads Cost James Altucher $2.7 Million - CryptoCoins News</title>
@@ -182,6 +231,9 @@
       <guid>https://www.ccn.com/crypto-genius-ads-cost-james-altucher-2-7-million/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T16:49:10Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/Crypto-Genius.png">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/Crypto-Genius.png" />
+      </media:content>
     </item>
     <item>
       <title>The Satoshi Revolution – Chapter 5: Privacy, Anonymity, and Pseudonymity (Part 1) - bitcoin.com News</title>
@@ -192,6 +244,9 @@
       <guid>https://news.bitcoin.com/the-satoshi-revolution-chapter-5-privacy-anonymity-and-pseudonymity-part-1/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T16:00:15Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/01/18.jpg">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/01/18.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Unconfirmed: Circle In Talks To Acquire Crypto Exchange Poloniex - Cointelegraph</title>
@@ -202,6 +257,9 @@
       <guid>https://cointelegraph.com/news/unconfirmed-circle-in-talks-to-acquire-crypto-exchange-poloniex</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-03T15:59:28Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MDZhOTQ3ZGVmODI0MTU5Yjk5MWVkMjM3NDUyNzhjMS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MDZhOTQ3ZGVmODI0MTU5Yjk5MWVkMjM3NDUyNzhjMS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Zcash Touts Nuclear Waste-Fueled Random Number Generator - CryptoCoins News</title>
@@ -213,6 +271,9 @@
       <guid>https://www.ccn.com/zcash-touts-nuclear-waste-fueled-random-number-generator/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T15:58:57Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/01/radioactive-container.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/01/radioactive-container.jpg" />
+      </media:content>
     </item>
     <item>
       <title>UNICEF Encourages Gamers to Mine Cryptocurrency for Syrian Children - bitcoinist.com</title>
@@ -225,6 +286,9 @@
       <guid>https://bitcoinist.com/unicef-encourages-gamers-mine-cryptocurrency-children-syria/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T15:30:26Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2018/02/pix-unicef-game-chaingers-crypto-mining-syrian-children.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2018/02/pix-unicef-game-chaingers-crypto-mining-syrian-children.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Canada: Regulators Approve Country’s First Blockchain ETF - Cointelegraph</title>
@@ -235,6 +299,9 @@
       <guid>https://cointelegraph.com/news/canada-regulators-approve-countrys-first-blockchain-etf</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-03T15:23:13Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZjI3ODAwZTRmNzk0YjY5MzM1NzNlODY2NDg1ZWM1My5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZjI3ODAwZTRmNzk0YjY5MzM1NzNlODY2NDg1ZWM1My5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>The Future of Copyright: The Global Copyright Register Explained - CryptoCoins News</title>
@@ -246,6 +313,9 @@
       <guid>https://www.ccn.com/future-copyright-global-copyright-register-explained/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T14:45:59Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-03-at-8.11.41-PM.png">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-03-at-8.11.41-PM.png" />
+      </media:content>
     </item>
     <item>
       <title>South Korea Discusses Cryptocurrency Policies With China’s Central Bank - bitcoin.com News</title>
@@ -257,6 +327,9 @@
       <guid>https://news.bitcoin.com/south-korea-discusses-cryptocurrency-policies-with-chinas-central-bank/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T14:34:41Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/02/korea-china.png">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/02/korea-china.png" />
+      </media:content>
     </item>
     <item>
       <title>Litecoin to Complement Bitcoin as Payments Currency: Founder Charlie Lee - CryptoCoins News</title>
@@ -270,6 +343,9 @@
       <guid>https://www.ccn.com/litecoins-lee-talks-crypto-scams-bitcoin-speed/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T14:32:56Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2017/04/Bitcoin-Litecoin.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2017/04/Bitcoin-Litecoin.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Crypto Has What it Takes to Break the Flawed Financial System - Cointelegraph</title>
@@ -280,6 +356,9 @@
       <guid>https://cointelegraph.com/news/crypto-has-what-it-takes-to-break-the-flawed-financial-system</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-03T14:16:45Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZDhmZmQxNTVjNGE0N2U3MTk4N2Q4NzMzNmEzN2Q3Ny5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZDhmZmQxNTVjNGE0N2U3MTk4N2Q4NzMzNmEzN2Q3Ny5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>New Blockchain-Based Project Intends to Challenge the Status Quo of Neobanks - Cointelegraph</title>
@@ -289,6 +368,9 @@
       <guid>https://cointelegraph.com/news/new-blockchain-based-project-intends-to-challenge-the-status-quo-of-neobanks</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-03T13:05:59Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82NDkyMmQ5OGIzMGI1OTQxNTJhNWE2Yzk4MmY4YTY4Zi5wbmc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82NDkyMmQ5OGIzMGI1OTQxNTJhNWE2Yzk4MmY4YTY4Zi5wbmc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin at $1 Million by 2020: McAfee Doubles Down on Bullish Bet - CryptoCoins News</title>
@@ -301,6 +383,9 @@
       <guid>https://www.ccn.com/despite-bitcoin-crash-mcafee-holds-his-1-million-by-2020-bet/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T12:56:38Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2017/06/John-McAfee-Flickr.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2017/06/John-McAfee-Flickr.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Ripple's XRP Worst Hit By January Market Decline - CoinDesk</title>
@@ -311,6 +396,9 @@
       <guid>https://www.coindesk.com/ripples-xrp-hit-worst-january-crypto-market-decline/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-03T12:40:32Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/ball-deflate-e1517605643399.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/ball-deflate-e1517605643399.jpg" />
+      </media:content>
     </item>
     <item>
       <title>With the Creation of Nijigen Business World, Fairmeet Helps Coca-Cola Connect to the Latest Generation of Consumer Market - CryptoCoins News</title>
@@ -322,6 +410,9 @@
       <guid>https://www.ccn.com/creation-nijigen-business-world-fairmeet-helps-coca-cola-connect-latest-generation-consumer-market/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T12:33:57Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/Cover-figure-.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/Cover-figure-.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Man Buys Super Bowl Tickets with Bitcoin - bitcoinist.com</title>
@@ -334,6 +425,9 @@
       <guid>https://bitcoinist.com/man-buys-super-bowl-tickets-with-bitcoin/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T12:30:50Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2018/02/wiki-man-buys-super-bowl-tickets-with-bitcoin.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2018/02/wiki-man-buys-super-bowl-tickets-with-bitcoin.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Qtum Launches ‘First Ever’ Blockchain Node Into Space - Cointelegraph</title>
@@ -344,6 +438,9 @@
       <guid>https://cointelegraph.com/news/qtum-launches-first-ever-blockchain-node-into-space</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-03T12:29:22Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMGUwMTRiM2RiMGY4YzMyZDMwZDY2MjQ3NjMxZGFiNi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMGUwMTRiM2RiMGY4YzMyZDMwZDY2MjQ3NjMxZGFiNi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>DomRaider Group Unveils the First Version of Their Blockchain Based Auction Solution under the New Brand Name Auctionity - CryptoCoins News</title>
@@ -356,6 +453,9 @@
       <guid>https://www.ccn.com/domraider-group-unveils-first-version-blockchain-based-auction-solution-new-brand-name-auctionity/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T12:28:59Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/DomRider-cover.png">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/DomRider-cover.png" />
+      </media:content>
     </item>
     <item>
       <title>Crypto Rich and Paranoid: Threats Prompt Radical Security in Bitcoin Land - CoinDesk</title>
@@ -367,6 +467,9 @@
       <guid>https://www.coindesk.com/rich-and-paranoid-threats-prompt-radical-security-in-bitcoinland/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-03T12:15:14Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/01/shutterstock_620234627.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/01/shutterstock_620234627.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Hada DBank: The First Blockchain-Based Islamic Bank - CryptoCoins News</title>
@@ -378,6 +481,9 @@
       <guid>https://www.ccn.com/hada-dbank-first-blockchain-based-islamic-bank/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T12:14:45Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/Hada-Press-Release.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/Hada-Press-Release.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Gamble.io Adds Litecoin - Coin Speaker</title>
@@ -399,6 +505,9 @@
       <guid>https://www.ccn.com/venezuela-reveals-petro-will-erc-20-token-will-private-presale/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T11:45:00Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2015/10/venezuelan-flag.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2015/10/venezuelan-flag.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Top P2P Cryptocurrency Token Etherecash Gets Listed on QRYPTOS, Following Successful Crowdsale - CryptoCoins News</title>
@@ -411,6 +520,9 @@
       <guid>https://www.ccn.com/top-p2p-cryptocurrency-token-etherecash-gets-listed-qryptos-following-successful-crowdsale/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T11:42:25Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2017/11/etherecash.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2017/11/etherecash.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Payment System VISO Raised $1 Million to Launch a Cryptocurrency Wallet, Cards and a Smart Terminals Network - CryptoCoins News</title>
@@ -423,6 +535,9 @@
       <guid>https://www.ccn.com/payment-system-viso-raised-1-million-launch-cryptocurrency-wallet-cards-smart-terminals-network/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T11:36:52Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/VISO-Press-Release-1080x625.png">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/VISO-Press-Release-1080x625.png" />
+      </media:content>
     </item>
     <item>
       <title>Cryptocurrency market stabilizes after violent sell-off saw billions of dollars of value wiped off  - CNBC Technology</title>
@@ -433,6 +548,9 @@
       <guid>https://www.cnbc.com/2018/02/03/bitcoin-price-cryptocurrency-market-stabilizes-after-violent-sell-off.html</guid>
       <dc:creator>CNBC Technology</dc:creator>
       <dc:date>2018-02-03T11:32:00Z</dc:date>
+      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/17/104950133-GettyImages-871795390-1.1910x1000.jpg">
+        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/17/104950133-GettyImages-871795390-1.1910x1000.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Interest Mounts as Grain Announces ICO - CryptoCoins News</title>
@@ -445,6 +563,9 @@
       <guid>https://www.ccn.com/interest-mounts-grain-announces-ico/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T11:28:19Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-01-at-1.16.10-PM.png">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-01-at-1.16.10-PM.png" />
+      </media:content>
     </item>
     <item>
       <title>RightMesh Completes $18M Private Token Allocation Round - CryptoCoins News</title>
@@ -456,6 +577,9 @@
       <guid>https://www.ccn.com/rightmesh-completes-18m-private-token-allocation-round/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T11:24:59Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/02/Rightmesh-Press-Release-1000x675.png">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/02/Rightmesh-Press-Release-1000x675.png" />
+      </media:content>
     </item>
     <item>
       <title>Founder of ACChain Ms. Wan Jia to Present “ACChain Digiverse” at Davos - CryptoCoins News</title>
@@ -467,6 +591,9 @@
       <guid>https://www.ccn.com/founder-acchain-ms-wan-jia-present-acchain-digiverse-davos/</guid>
       <dc:creator>CryptoCoins News</dc:creator>
       <dc:date>2018-02-03T11:13:09Z</dc:date>
+      <media:content url="https://www.ccn.com/wp-content/uploads/2018/01/ACChain-Press-Release.jpg">
+        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2018/01/ACChain-Press-Release.jpg" />
+      </media:content>
     </item>
     <item>
       <title>PR: John Mcafee Joins Decentralized Coding Platform Transcodium’s Advisory Board - bitcoin.com News</title>
@@ -478,6 +605,9 @@
       <guid>https://news.bitcoin.com/pr-john-mcafee-joins-decentralized-coding-platform-transcodiums-advisory-board/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T10:30:49Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/01/banner.png">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/01/banner.png" />
+      </media:content>
     </item>
     <item>
       <title>Two Ex-BlackRock Managers to Launch Cryptocurrency Hedge Fund - bitcoinist.com</title>
@@ -490,6 +620,9 @@
       <guid>https://bitcoinist.com/two-ex-blackrock-managers-launch-cryptocurrency-hedge-fund/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T10:00:25Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2017/08/is_etf.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2017/08/is_etf.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Japanese Financial Authority Inspecting 32 Cryptocurrency Exchanges - bitcoin.com News</title>
@@ -501,6 +634,9 @@
       <guid>https://news.bitcoin.com/japanese-financial-authority-inspecting-cryptocurrency-exchanges/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T10:00:04Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/02/Japan-FSA-announcing-31-exchanges.png">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/02/Japan-FSA-announcing-31-exchanges.png" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin Mining Comes To New York As Lawmakers Approve Power Allocation - Cointelegraph</title>
@@ -511,6 +647,9 @@
       <guid>https://cointelegraph.com/news/bitcoin-mining-comes-to-new-york-as-lawmakers-approve-power-allocation</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-03T09:53:51Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OWExOGU4MjA2ZDVkZjYxN2M1MmUzYzFjOTk1MDMxNC5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OWExOGU4MjA2ZDVkZjYxN2M1MmUzYzFjOTk1MDMxNC5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>PSA: No India hasn’t banned Bitcoin — but it’s still talking tough on crypto - Techcrunch</title>
@@ -524,6 +663,9 @@
       <guid>http://feedproxy.google.com/~r/Techcrunch/~3/md2N9Zfe-2c/</guid>
       <dc:creator>Techcrunch</dc:creator>
       <dc:date>2018-02-03T09:42:43Z</dc:date>
+      <media:content url="https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg">
+        <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Coingeek Announces Funding the Electron Cash Development Team - bitcoin.com News</title>
@@ -534,6 +676,9 @@
       <guid>https://news.bitcoin.com/coingeek-announces-funding-the-electron-cash-development-team/</guid>
       <dc:creator>bitcoin.com News</dc:creator>
       <dc:date>2018-02-03T08:00:40Z</dc:date>
+      <media:content url="https://news.bitcoin.com/wp-content/uploads/2018/02/ECash.jpg">
+        <media:thumbnail url="https://news.bitcoin.com/wp-content/uploads/2018/02/ECash.jpg" />
+      </media:content>
     </item>
     <item>
       <title>President Maduro: Venezuela to Launch ‘Petro’ Pre-Sale on February 20 - bitcoinist.com</title>
@@ -545,6 +690,9 @@
       <guid>https://bitcoinist.com/president-maduro-venezuela-launch-petro-pre-sale-february-20/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T07:30:08Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2018/02/monument-to-the-virgin-109145_1920.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2018/02/monument-to-the-virgin-109145_1920.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Alt coin Analysis: NEO, EOS, LTC and IOTA - News BTC</title>
@@ -556,6 +704,9 @@
       <guid>https://www.newsbtc.com/2018/02/03/alt-coin-analysis-neo-eos-ltc-lumens/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-03T06:48:51Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/03064251/EOSUSD-4HR-Chart-03.02.2018.png">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/03064251/EOSUSD-4HR-Chart-03.02.2018.png" />
+      </media:content>
     </item>
     <item>
       <title>Morning Asian trading roundup: the leading altcoin is Dentacoin - News BTC</title>
@@ -567,6 +718,9 @@
       <guid>https://www.newsbtc.com/2018/02/03/morning-asian-trading-roundup-the-leading-altcoin-is-dentacoin/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-03T05:25:00Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/03052247/dentacoin.jpg">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/03052247/dentacoin.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Crypto Billionaires Are Building a Utopia in Puerto Rico - bitcoinist.com</title>
@@ -579,17 +733,9 @@
       <guid>https://bitcoinist.com/crypto-billionaires-are-building-a-utopia-in-puerto-rico/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T05:00:15Z</dc:date>
-    </item>
-    <item>
-      <title>Dead again? In Reality Bitcoin Is Up 729% Since Last February - bitcoin.com News</title>
-      <link>https://news.bitcoin.com/dead-again-in-reality-bitcoin-is-up-729-since-last-february/</link>
-      <description>&lt;p&gt;&lt;img width="696" height="696" src="https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-768x768.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Dead again? In Reality Bitcoin Is Up 729% Since Last February" style="float:left; margin:0 15px 15px 0;" srcset="https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-768x768.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-150x150.jpg 150w, https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-300x300.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-1024x1024.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-696x696.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-1392x1392.jpg 1392w, https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead-420x420.jpg 420w, https://news.bitcoin.com/wp-content/uploads/2018/02/Even-After-the-Big-Dip-Bitcoins-70000-Increase-Is-Far-from-Being-Dead.jpg 1600w" sizes="(max-width: 696px) 100vw, 696px" /&gt;The price of bitcoin has seen some corrections over the years, but really there have only been a few deep cuts. With the bearish dips in price over the past five weeks it&amp;#8217;s always good to look at the historical view of value drops and the long-term achievements of the cryptocurrency economy in general. Also [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel="nofollow" href="https://news.bitcoin.com/dead-again-in-reality-bitcoin-is-up-729-since-last-february/"&gt;Dead again? In Reality Bitcoin Is Up 729% Since Last February&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://news.bitcoin.com"&gt;Bitcoin News&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>bitcoin</category>
-      <pubDate>Sat, 03 Feb 2018 04:55:37 GMT</pubDate>
-      <guid>https://news.bitcoin.com/dead-again-in-reality-bitcoin-is-up-729-since-last-february/</guid>
-      <dc:creator>bitcoin.com News</dc:creator>
-      <dc:date>2018-02-03T04:55:37Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2018/02/Puerto-Rico-Wallpapers-HD-e1517636175111.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2018/02/Puerto-Rico-Wallpapers-HD-e1517636175111.jpg" />
+      </media:content>
     </item>
     <item>
       <title>United Parcel Service (UPS) Patents Decentralized Locker Bank That Accepts Bitcoin - bitcoinist.com</title>
@@ -602,6 +748,9 @@
       <guid>https://bitcoinist.com/united-parcel-service-patents-decentralized-locker-bank-accepts-bitcoin/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T02:30:58Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2018/02/dp-ups.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2018/02/dp-ups.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Cryptocurrency Payments Take off at Brisbane Airport - bitcoinist.com</title>
@@ -614,6 +763,9 @@
       <guid>https://bitcoinist.com/cryptocurrency-payments-take-off-brisbane-airport/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T02:30:25Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2018/02/wc-brisbane-airport.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2018/02/wc-brisbane-airport.jpg" />
+      </media:content>
     </item>
     <item>
       <title>The European Commission Just Launched a Blockchain Observatory - Cryptocurrency News</title>
@@ -636,6 +788,9 @@
       <guid>https://cryptocurrencynews.com/blockchain/launch-blockchain-observatory-and-forum/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-03T00:46:19Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/The-European-Commission-Just-Launched-a-Blockchain-Observatory.jpg">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/The-European-Commission-Just-Launched-a-Blockchain-Observatory.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Axiom Zen’s Director of Communications Discusses the Cryptokitties Expansion - Cryptocurrency News</title>
@@ -658,6 +813,9 @@
       <guid>https://cryptocurrencynews.com/ceo-speakers-series/cryptokitties-expansion-exclusive-interview/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-03T00:36:28Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Cryptokitties-4.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Cryptokitties-4.png" />
+      </media:content>
     </item>
     <item>
       <title>In This Storm, Be Hopeful; Lightning is on the Horizon - News BTC</title>
@@ -668,6 +826,9 @@
       <guid>https://www.newsbtc.com/2018/02/03/coinfinity-completes-first-bitcoin-transaction-using-the-lightening-network/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-03T00:30:40Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02231359/light.jpg">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02231359/light.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Ripple (XRP) – The Dark Horse Favorite for 2018? - bitcoinist.com</title>
@@ -680,6 +841,9 @@
       <guid>https://bitcoinist.com/ripple-xrp-the-dark-horse-favorite-for-2018/</guid>
       <dc:creator>bitcoinist.com</dc:creator>
       <dc:date>2018-02-03T00:30:23Z</dc:date>
+      <media:content url="https://bitcoinist.com/wp-content/uploads/2017/12/ss-ripple.jpg">
+        <media:thumbnail url="https://bitcoinist.com/wp-content/uploads/2017/12/ss-ripple.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Ethereum Price Analysis – Will It Go Back To $1,000? - Cryptocurrency News</title>
@@ -703,6 +867,9 @@
       <guid>https://cryptocurrencynews.com/ethereum/02-02-18-ethereum-price-analysis/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-03T00:25:58Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Ethereum-Price-Analysis-Will-It-Go-Back-To-1000.jpg">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Ethereum-Price-Analysis-Will-It-Go-Back-To-1000.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Cryptocurrency Regulation Might Be Discussed at Next G20 Summit - Cryptocurrency News</title>
@@ -726,6 +893,9 @@ Why Might Regulation Be Discussed at the G20 Summit?
       <guid>https://cryptocurrencynews.com/daily-news/crypto-news/cryptocurrency-regulation-g20-summit/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T23:53:05Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Cryptocurrency-Regulation-Might-Be-Discussed-at-Next-G20-Summit.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Cryptocurrency-Regulation-Might-Be-Discussed-at-Next-G20-Summit.png" />
+      </media:content>
     </item>
     <item>
       <title>Banco Santander to Debut International Payment System on Ripple - News BTC</title>
@@ -737,6 +907,9 @@ Why Might Regulation Be Discussed at the G20 Summit?
       <guid>https://www.newsbtc.com/2018/02/02/banco-santander-to-debut-international-payment-system-on-ripple/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-02T23:30:25Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02221117/santander.jpg">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02221117/santander.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Report: Bank of America, JP Morgan Ban Credit Crypto Purchases - CoinDesk</title>
@@ -747,6 +920,9 @@ Why Might Regulation Be Discussed at the G20 Summit?
       <guid>https://www.coindesk.com/report-bank-america-jp-morgan-ban-credit-crypto-purchases/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T22:55:26Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2016/07/WS.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2016/07/WS.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Neon District: the Latest Crypto Game - Cryptocurrency News</title>
@@ -770,6 +946,9 @@ Why Might Regulation Be Discussed at the G20 Summit?
       <guid>https://cryptocurrencynews.com/crypto-games/neon-district-the-latest-crypto-game/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T22:10:51Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Neon-District-e1517602827868.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Neon-District-e1517602827868.png" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin Price Analysis – Fighting Off Lows - Cryptocurrency News</title>
@@ -795,6 +974,9 @@ Why Might Regulation Be Discussed at the G20 Summit?
       <guid>https://cryptocurrencynews.com/daily-news/bitcoin-news/02-02-18-bitcoin-is-fighting/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T22:06:37Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Bitcoin-Price-Analysis-Fighting-Off-Lows.jpg">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Bitcoin-Price-Analysis-Fighting-Off-Lows.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin is bottoming, expect a 70 percent surge: Trader - CNBC Technology</title>
@@ -805,6 +987,9 @@ Why Might Regulation Be Discussed at the G20 Summit?
       <guid>https://www.cnbc.com/2018/02/02/bitcoin-is-bottoming-expect-a-70-percent-surge-trader.html</guid>
       <dc:creator>CNBC Technology</dc:creator>
       <dc:date>2018-02-02T21:58:00Z</dc:date>
+      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/02/104985822-GettyImages-910099824.1910x1000.jpg">
+        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/02/104985822-GettyImages-910099824.1910x1000.jpg" />
+      </media:content>
     </item>
     <item>
       <title>JPMorgan Chase, Bank of America &amp; Citi bar people from buying bitcoin with a credit card - CNBC Technology</title>
@@ -815,6 +1000,9 @@ Why Might Regulation Be Discussed at the G20 Summit?
       <guid>https://www.cnbc.com/2018/02/02/jpmorgan-chase-bank-of-america-bar-bitcoin-buys-with-a-credit-card.html</guid>
       <dc:creator>CNBC Technology</dc:creator>
       <dc:date>2018-02-02T21:56:00Z</dc:date>
+      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/09/12/104705629-20170912-8447-2447.1910x1000.jpg">
+        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/09/12/104705629-20170912-8447-2447.1910x1000.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Canadian Regulators Approve Country's First Blockchain ETF - CoinDesk</title>
@@ -825,6 +1013,9 @@ Why Might Regulation Be Discussed at the G20 Summit?
       <guid>https://www.coindesk.com/canada-approves-countrys-first-blockchain-etf/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T21:45:36Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2017/02/canada-electronic-e1486664314391.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2017/02/canada-electronic-e1486664314391.jpg" />
+      </media:content>
     </item>
     <item>
       <title>DigixDAO (DGD), Dentacoin (DCN), and Nano (XRB) Take Off - Cryptocurrency News</title>
@@ -850,6 +1041,9 @@ DigixDAO
       <guid>https://cryptocurrencynews.com/altcoins/digixdao-dgd-dentacoin-dcn-nano-xrb-take-off/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T21:32:32Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/crypto-gains-e1517600026886.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/crypto-gains-e1517600026886.png" />
+      </media:content>
     </item>
     <item>
       <title>7 Ways To Buy Bitcoin With Credit Card (Updated 2018) - Coin Speaker</title>
@@ -860,6 +1054,9 @@ DigixDAO
       <guid>https://www.coinspeaker.com/7-ways-buy-bitcoin-credit-card-guide/</guid>
       <dc:creator>Coin Speaker</dc:creator>
       <dc:date>2018-02-02T21:32:08Z</dc:date>
+      <media:content url="https://www.coinspeaker.com/wp-content/uploads/2017/11/buy-bitcoin-with-credit-card.jpg">
+        <media:thumbnail url="https://www.coinspeaker.com/wp-content/uploads/2017/11/buy-bitcoin-with-credit-card.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Professional Olympic Athlete Joined Fishbank to Take Part in Early Game Tests - Coin Speaker</title>
@@ -880,6 +1077,9 @@ DigixDAO
       <guid>https://www.newsbtc.com/2018/02/02/harvest-portfolios-to-launch-canadas-first-blockchain-etf/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-02T21:30:06Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02193851/etf.jpg">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02193851/etf.jpg" />
+      </media:content>
     </item>
     <item>
       <title>CNBC’s Ran Neuner Says Bitcoin Will End 2018 At $50,000 - Cointelegraph</title>
@@ -890,6 +1090,9 @@ DigixDAO
       <guid>https://cointelegraph.com/news/cnbcs-ran-neuner-says-bitcoin-will-end-2018-at-50000</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T21:22:37Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iM2ZkYmY3NmUxOTkzMDgwOThkODYxYjJhYzBkNGQ2Zi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iM2ZkYmY3NmUxOTkzMDgwOThkODYxYjJhYzBkNGQ2Zi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Tron Dogs Update: Tron Dogs English Mobile Coming Soon and Design Your Own Dog! - Cryptocurrency News</title>
@@ -910,6 +1113,9 @@ DigixDAO
       <guid>https://cryptocurrencynews.com/crypto-games/tron-dogs-update-mobile-and-web-version/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T21:13:59Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Untitled-design-1.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Untitled-design-1.png" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin, Ethereum, Bitcoin Cash, Ripple, Stellar, Litecoin, NEM, NEO, EOS: Price Analysis, February 2, 2018 - Cointelegraph</title>
@@ -920,6 +1126,9 @@ DigixDAO
       <guid>https://cointelegraph.com/news/bitcoin-ethereum-bitcoin-cash-ripple-stellar-litecoin-nem-neo-eos-price-analysis-february-2-2018</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T20:44:31Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YmNjZmY1YWRiZWU2NTMzODU1ZTlhNWY2MzFhODZiMS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YmNjZmY1YWRiZWU2NTMzODU1ZTlhNWY2MzFhODZiMS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Canada’s First Blockchain ETF Set For Launch Next Week - Cryptocurrency News</title>
@@ -943,6 +1152,9 @@ DigixDAO
       <guid>https://cryptocurrencynews.com/daily-news/crypto-news/canadas-first-blockchain-etf-launch/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T20:23:46Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Canadas-First-Blockchain-ETF-Set-For-Launch-Next-Week.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Canadas-First-Blockchain-ETF-Set-For-Launch-Next-Week.png" />
+      </media:content>
     </item>
     <item>
       <title>Santander to Roll Out Ripple-Powered App in 4 Countries - CoinDesk</title>
@@ -952,6 +1164,9 @@ DigixDAO
       <guid>https://www.coindesk.com/santander-uk-ripple-payment-app/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T20:15:39Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/santander.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/santander.jpg" />
+      </media:content>
     </item>
     <item>
       <title>M2Jets CEO Moshe Malamud Talks the Super Bowl and Cryptocurrency! - Cryptocurrency News</title>
@@ -976,6 +1191,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/ceo-speakers-series/m2jets-exclusive-ceo-super-bowl-cryptocurrency/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T19:54:00Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/m2Jets.jpg">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/m2Jets.jpg" />
+      </media:content>
     </item>
     <item>
       <title>“Game Chaingers”: UNICEF Accepts Donations via Cryptocurrency Mining - News BTC</title>
@@ -987,6 +1205,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.newsbtc.com/2018/02/02/unicefs-game-chaingers-lets-computer-users-mine-cryptocurrencies-for-direct-donation/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-02T19:30:29Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02184226/unicef.jpg">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02184226/unicef.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Cryptocurrency fans are moving to Puerto Rico to build 'Puertopia,' a blockchain-based society - CNBC Technology</title>
@@ -997,6 +1218,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.cnbc.com/2018/02/02/making-a-crypto-utopia-in-puerto-rico.html</guid>
       <dc:creator>CNBC Technology</dc:creator>
       <dc:date>2018-02-02T19:03:00Z</dc:date>
+      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/02/104985750-CRYPTO_HAVEN_ADV04_1.1910x1000.JPG">
+        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/02/104985750-CRYPTO_HAVEN_ADV04_1.1910x1000.JPG" />
+      </media:content>
     </item>
     <item>
       <title>Botnet Infects Half a Million Servers to Mine Thousands of Monero - CoinDesk</title>
@@ -1006,6 +1230,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/botnet-infects-half-million-servers-mine-thousands-monero/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T18:46:13Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/miner.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/miner.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Cryptocurrency Millionaires Build “Crypto Utopia” in Puerto Rico - Cryptocurrency News</title>
@@ -1029,6 +1256,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/daily-news/crypto-utopia-puerto-rico/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T18:20:23Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Puerto-Rico-2.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Puerto-Rico-2.png" />
+      </media:content>
     </item>
     <item>
       <title>The iced tea company that changed its name to include ‘blockchain’ retracts on bitcoin mining operation - Techcrunch</title>
@@ -1041,6 +1271,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Techcrunch/~3/e6CroaZNvgY/</guid>
       <dc:creator>Techcrunch</dc:creator>
       <dc:date>2018-02-02T18:13:25Z</dc:date>
+      <media:content url="https://tctechcrunch2011.files.wordpress.com/2017/12/gettyimages-547425520.jpg">
+        <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2017/12/gettyimages-547425520.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Apple co-founder Steve Wozniak bought bitcoin at $700 and cashed out when the price shot up - CNBC Technology</title>
@@ -1051,6 +1284,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.cnbc.com/2018/02/02/apple-co-founder-steve-wozniak-on-selling-bitcoin.html</guid>
       <dc:creator>CNBC Technology</dc:creator>
       <dc:date>2018-02-02T17:46:00Z</dc:date>
+      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/06/12/104524021-_Y2A6159-1.1910x1000.jpg">
+        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/06/12/104524021-_Y2A6159-1.1910x1000.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Former Iced Tea Maker Cancels Purchase of Bitcoin Mining Rigs - CoinDesk</title>
@@ -1061,6 +1297,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/former-iced-tea-maker-cancels-purchase-bitcoin-mining-rigs/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T17:45:37Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/computer.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/computer.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Mining Margins and Where to Make the Most Money - Cointelegraph</title>
@@ -1070,6 +1309,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/mining-margins-and-where-to-make-the-most-money</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T17:28:31Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jNTNmZDkyNWM0NzA5ZjQwYTAzNWYzM2E3YTMyYTU1MS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jNTNmZDkyNWM0NzA5ZjQwYTAzNWYzM2E3YTMyYTU1MS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin Price Watch; Near Term Reprieve? - News BTC</title>
@@ -1081,6 +1323,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.newsbtc.com/2018/02/02/168358/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-02T17:11:27Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02170834/Screen-Shot-2018-02-02-at-17.07.53.png">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02170834/Screen-Shot-2018-02-02-at-17.07.53.png" />
+      </media:content>
     </item>
     <item>
       <title>Thai Finance Secretary: Blockchain Is Beneficial But People Should Know Risks - Cointelegraph</title>
@@ -1091,6 +1336,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/thai-finance-secretary-blockchain-is-beneficial-but-people-should-know-risks</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T17:08:09Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMjA2YzczMjkxN2YwNzZiYTQyMjBlYmM5YzczZjgxYS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMjA2YzczMjkxN2YwNzZiYTQyMjBlYmM5YzczZjgxYS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>David Cohen Joins MeshBox, The Company That’s Building A Parallel Internet - News BTC</title>
@@ -1101,6 +1349,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.newsbtc.com/2018/02/02/david-cohen-joins-meshbox-company-thats-building-parrallel-internet/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-02T17:03:37Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02170236/Screen-Shot-2018-01-29-at-13.08.39.png">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02170236/Screen-Shot-2018-01-29-at-13.08.39.png" />
+      </media:content>
     </item>
     <item>
       <title>Russia: PM Medvedev Sees Promise In Cross-National Crypto Regulation - Cointelegraph</title>
@@ -1111,6 +1362,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/russia-pm-medvedev-sees-promise-in-cross-national-crypto-regulation</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T16:39:55Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82YjY5M2ZiMDgzZmFhZTg4OGI4NjUyYjA4NTU4NDYzZS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82YjY5M2ZiMDgzZmFhZTg4OGI4NjUyYjA4NTU4NDYzZS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Japanese FSA Inspects Recently-Hacked Coincheck Exchange - Cointelegraph</title>
@@ -1120,6 +1374,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/japanese-fsa-inspects-recently-hacked-coincheck-exchange</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T16:25:10Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iZmM5MTIyNDcxNGU1NjVjYzcwZjAzNjQ5YWM5YzI1MC5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iZmM5MTIyNDcxNGU1NjVjYzcwZjAzNjQ5YWM5YzI1MC5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Iced tea company kills plan to buy bitcoin mining rigs - CNN Money</title>
@@ -1130,6 +1387,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://rss.cnn.com/~r/rss/money_technology/~3/Ei-29ccB_ho/index.html</guid>
       <dc:creator>CNN Money</dc:creator>
       <dc:date>2018-02-02T16:22:32Z</dc:date>
+      <media:content url="http://i2.cdn.turner.com/money/dam/assets/180124165635-should-i-buy-bitcoin-780x439.jpg">
+        <media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180124165635-should-i-buy-bitcoin-780x439.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Copycat Twitter Accounts Seek to Scam Crypto Users - CoinDesk</title>
@@ -1140,6 +1400,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/copycat-twitter-accounts-seek-to-scam-crypto-users/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T16:10:57Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/twitter2.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/twitter2.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Chinese Retail Giant JD.com Joins Blockchain in Transport Alliance - CoinDesk</title>
@@ -1150,6 +1413,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/chinese-retail-giant-jd-com-joins-blockchain-in-transport-alliance/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T15:01:03Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/shutterstock_431510626.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/shutterstock_431510626.jpg" />
+      </media:content>
     </item>
     <item>
       <title>As bitcoin gets cut in half and continues to dive, Wall Street's Tom Lee remains bullish - CNBC Technology</title>
@@ -1160,6 +1426,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.cnbc.com/2018/02/02/as-bitcoin-gets-cut-in-half-and-continues-to-dive-wall-streets-tom-lee-remains-bullish.html</guid>
       <dc:creator>CNBC Technology</dc:creator>
       <dc:date>2018-02-02T14:51:00Z</dc:date>
+      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/08/104933927-GettyImages-880077294.1910x1000.jpg">
+        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/08/104933927-GettyImages-880077294.1910x1000.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Black January: Why is Bitcoin in Such a Bad Way? - Cointelegraph</title>
@@ -1170,6 +1439,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/black-january-why-is-bitcoin-in-such-a-bad-way</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T14:49:10Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMjRlNjE2YTNiMTFjYjNlOWFlMDZlZjdjM2ExNjJmMC5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMjRlNjE2YTNiMTFjYjNlOWFlMDZlZjdjM2ExNjJmMC5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin dips below $8,000. India is the latest buzzkill - CNN Money</title>
@@ -1180,6 +1452,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://rss.cnn.com/~r/rss/money_technology/~3/MtR9Tn4YHms/index.html</guid>
       <dc:creator>CNN Money</dc:creator>
       <dc:date>2018-02-02T14:47:17Z</dc:date>
+      <media:content url="http://i2.cdn.turner.com/money/dam/assets/180202091817-india-bitcoin-780x439.jpg">
+        <media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180202091817-india-bitcoin-780x439.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin Price Watch; Here’s Where We’re Looking This Morning - News BTC</title>
@@ -1191,6 +1466,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.newsbtc.com/2018/02/02/bitcoi-price-watch-heres-looking-morning/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-02T14:37:53Z</dc:date>
+      <media:content url="https://www.newsbtc.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-02-at-14.34.19.png">
+        <media:thumbnail url="https://www.newsbtc.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-02-at-14.34.19.png" />
+      </media:content>
     </item>
     <item>
       <title>RaiBlocks Rebrands to Nano and the Coin sees a 37% Increase! – UPDATED - Cryptocurrency News</title>
@@ -1214,6 +1492,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/altcoins/raiblocks-rebrands-to-nano-xrb-37-increase/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T14:29:51Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/01/NANO-e1517425391436.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/01/NANO-e1517425391436.png" />
+      </media:content>
     </item>
     <item>
       <title>Bankera’s Co-Founders Acquired the Pacific Private Bank Limited - Coin Speaker</title>
@@ -1223,6 +1504,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coinspeaker.com/2018/02/02/bankeras-co-founders-acquired-pacific-private-bank-limited/</guid>
       <dc:creator>Coin Speaker</dc:creator>
       <dc:date>2018-02-02T14:19:08Z</dc:date>
+      <media:content url="https://www.coinspeaker.com/wp-content/uploads/2017/11/bankera.jpg">
+        <media:thumbnail url="https://www.coinspeaker.com/wp-content/uploads/2017/11/bankera.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Mnuchin Calls for Crypto Regulatory Talk At G20 Summit - CoinDesk</title>
@@ -1233,6 +1517,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/mnuchin-talk-crypto-regulation-g20-summit/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T14:15:42Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/shutterstock_220015156.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/shutterstock_220015156.jpg" />
+      </media:content>
     </item>
     <item>
       <title>World’s First Lightning Transaction on a Bitcoin ATM Realized by Coinfinity Startup - Coin Speaker</title>
@@ -1243,6 +1530,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coinspeaker.com/2018/02/02/worlds-first-lightning-transaction-bitcoin-atm-realized-coinfinity-startup/</guid>
       <dc:creator>Coin Speaker</dc:creator>
       <dc:date>2018-02-02T14:03:37Z</dc:date>
+      <media:content url="https://www.coinspeaker.com/wp-content/uploads/2017/11/bitcoin-atm-coinfinity.jpg">
+        <media:thumbnail url="https://www.coinspeaker.com/wp-content/uploads/2017/11/bitcoin-atm-coinfinity.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Charlie Lee: Bullish on Bitcoin And Litecoin Long Term, Short Term Impossible To Predict - Cointelegraph</title>
@@ -1254,6 +1544,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/charlie-lee-bullish-on-bitcoin-and-litecoin-long-term-short-term-impossible-to-predict</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T13:55:40Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmI4ZjM1NjMzMDRlODQ3NGNjNWU1MGRkMzkxZTQxOS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMmI4ZjM1NjMzMDRlODQ3NGNjNWU1MGRkMzkxZTQxOS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Estonian Startup VLBToken Unveils Blockchain-Based Car History Registry - Coinjournal</title>
@@ -1264,6 +1557,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/4i5zbj0RCGc/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-02-02T13:32:31Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2018/02/Car-sales-USA.jpg">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/02/Car-sales-USA.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Red Tide: Double-Digit Losses Sweep Crypto Asset Market - CoinDesk</title>
@@ -1274,6 +1570,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/red-tide-double-digit-losses-sweep-crypto-asset-market/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T13:32:00Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/Falling-balls.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/Falling-balls.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin Hits Multi-Month Low As Mainstream Media Keeps Up FUD Pressure - Cointelegraph</title>
@@ -1284,6 +1583,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/bitcoin-hits-multi-month-low-as-mainstream-media-keeps-up-fud-pressure</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T13:19:51Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hOWMzMjQ3MzgwZmQ2NmQxNjhmY2Q1NjEzMTI2MDhkOS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hOWMzMjQ3MzgwZmQ2NmQxNjhmY2Q1NjEzMTI2MDhkOS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Japanese Officials Raid Cryptocurrency Exchange Coincheck After $500M Theft - Coin Speaker</title>
@@ -1294,6 +1596,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coinspeaker.com/2018/02/02/japanese-officials-raid-cryptocurrency-exchange-coincheck-500m-theft/</guid>
       <dc:creator>Coin Speaker</dc:creator>
       <dc:date>2018-02-02T13:05:34Z</dc:date>
+      <media:content url="https://www.coinspeaker.com/wp-content/uploads/2017/11/coincheck-1.jpg">
+        <media:thumbnail url="https://www.coinspeaker.com/wp-content/uploads/2017/11/coincheck-1.jpg" />
+      </media:content>
     </item>
     <item>
       <title>All Crypto-friendly Venues  Are Finally Mapped in One App – CryptoFind - Coin Speaker</title>
@@ -1313,6 +1618,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/texas-takes-aim-at-overseas-ico-with-cease-and-desist/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T12:30:36Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/shutterstock_571358887.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/shutterstock_571358887.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin Slides Towards $8K Amid Market Slump - CoinDesk</title>
@@ -1323,6 +1631,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/bottom-in-sight-bitcoin-slides-towards-8k-amid-market-slump/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T11:45:01Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/slide.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/slide.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Philippines Investigates Crypto Firm over Use of Politician's Name - CoinDesk</title>
@@ -1333,6 +1644,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/philippines-investigates-crypto-firm-over-use-of-politicians-name/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T11:00:45Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/Koko-Pimentel.png">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/Koko-Pimentel.png" />
+      </media:content>
     </item>
     <item>
       <title>Cryptocurrencies Like Bitcoin are Lifelines to People in Latin America - News BTC</title>
@@ -1344,6 +1658,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.newsbtc.com/2018/02/02/cryptocurrencies-like-bitcoin-lifelines-people-latin-america/</guid>
       <dc:creator>News BTC</dc:creator>
       <dc:date>2018-02-02T11:00:27Z</dc:date>
+      <media:content url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02080948/achieve-1822503_1280.jpg">
+        <media:thumbnail url="https://s3.amazonaws.com/main-newsbtc-images/2018/02/02080948/achieve-1822503_1280.jpg" />
+      </media:content>
     </item>
     <item>
       <title>A New Platform Introduces Automated Crypto Trading - Cointelegraph</title>
@@ -1354,6 +1671,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/bitcoin-growing-while-you-sleep-a-new-platform-introduces-automated-crypto-trading</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T10:50:14Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84OTkyZTA3N2YyNzg5NWVkMGFiZTZhZGRlMzg3YzVmOC5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84OTkyZTA3N2YyNzg5NWVkMGFiZTZhZGRlMzg3YzVmOC5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Regulators Probe Coincheck's Hack Compensation Claims - CoinDesk</title>
@@ -1363,6 +1683,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/japans-fsa-probes-coinchecks-ability-to-issue-hack-compensation/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T10:00:45Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2017/10/shutterstock_284080586-e1509357561829.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2017/10/shutterstock_284080586-e1509357561829.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Making a Crypto Utopia in Puerto Rico - NY Time Technology</title>
@@ -1373,6 +1696,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.nytimes.com/2018/02/02/technology/cryptocurrency-puerto-rico.html?partner=rss&amp;emc=rss</guid>
       <dc:creator>NY Time Technology</dc:creator>
       <dc:date>2018-02-02T10:00:30Z</dc:date>
+      <media:content url="https://static01.nyt.com/images/2018/02/02/business/04Cryptohaven-alpha/04Cryptohaven-alpha-facebookJumbo.jpg">
+        <media:thumbnail url="https://static01.nyt.com/images/2018/02/02/business/04Cryptohaven-alpha/04Cryptohaven-alpha-facebookJumbo.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Finding a Price: Why is Bitcoin Worth What it is? - Cointelegraph</title>
@@ -1383,6 +1709,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/finding-a-price-why-is-bitcoin-worth-what-it-is</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T09:53:58Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMzEwM2M5NDkxNThjM2ZhOWQxZmE5YTRhNTM5Y2M0NC5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMzEwM2M5NDkxNThjM2ZhOWQxZmE5YTRhNTM5Y2M0NC5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Job Matching Service Job.com Moves To Blockchain-Based Platform - Coinjournal</title>
@@ -1393,6 +1722,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/gG9tKvNhq_0/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-02-02T09:34:37Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2018/02/Jobdotcombanner.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/02/Jobdotcombanner.png" />
+      </media:content>
     </item>
     <item>
       <title>Bee Token ICO Lost $1 Million in Ethereum as a Result of Phishing Scam - Coin Speaker</title>
@@ -1413,6 +1745,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/januarys-top-large-cap-crypto-wasnt-bitcoin-ether/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T09:00:27Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/balls-lottery-e1517516635209.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/balls-lottery-e1517516635209.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Indian Finance Minister Has a Stern Message for Crypto Usage, Praises Blockchain - Coin Speaker</title>
@@ -1424,6 +1759,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coinspeaker.com/2018/02/02/indian-finance-minister-stern-message-crypto-usage-praises-blockchain/</guid>
       <dc:creator>Coin Speaker</dc:creator>
       <dc:date>2018-02-02T07:04:14Z</dc:date>
+      <media:content url="https://www.coinspeaker.com/wp-content/uploads/2017/11/aran-jaitley-indian-finance-minister.jpg">
+        <media:thumbnail url="https://www.coinspeaker.com/wp-content/uploads/2017/11/aran-jaitley-indian-finance-minister.jpg" />
+      </media:content>
     </item>
     <item>
       <title>EU Launches Blockchain Observatory With Ethereum Startup - CoinDesk</title>
@@ -1434,6 +1772,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/eu-launches-blockchain-observatory-in-partnership-with-consensys/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T07:03:16Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/eu-flag-and-fence-e1517511189752.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/eu-flag-and-fence-e1517511189752.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Tezos Has a New Board, But What About the Money? - CoinDesk</title>
@@ -1443,6 +1784,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/tezos-new-board-mean-money/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T05:00:48Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/Screen-Shot-2018-02-01-at-11.19.14-PM.png">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/Screen-Shot-2018-02-01-at-11.19.14-PM.png" />
+      </media:content>
     </item>
     <item>
       <title>US Commodities Regulator Beefs Up Bitcoin Futures Review - CoinDesk</title>
@@ -1453,6 +1797,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/cftc-beefs-bitcoin-futures-review-process/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-02T03:00:37Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/capitol-building-e1517503106820.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/capitol-building-e1517503106820.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Blockchain-based Project to Verify Education and Work Experience Information - Cointelegraph</title>
@@ -1462,6 +1809,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/blockchain-based-project-to-verify-education-and-work-experience-information</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T01:45:00Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MmZhMjA2OGE1Mjg2NjgwOTc5YWFhZjVmYTAwOTM5OC5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MmZhMjA2OGE1Mjg2NjgwOTc5YWFhZjVmYTAwOTM5OC5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>UPS to Accept Payment in Bitcoins? It’s On the Horizon - Cryptocurrency News</title>
@@ -1484,6 +1834,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/daily-news/bitcoin-news/ups-payment-bitcoins-locker-banks/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T01:20:04Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/UPS-to-Accept-Payment-in-Bitcoins-Its-Possible.jpg">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/UPS-to-Accept-Payment-in-Bitcoins-Its-Possible.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Ethereum (ETH) Remains Strong Despite Panicked Market - Cryptocurrency News</title>
@@ -1505,6 +1858,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/altcoins/ethereum-eth-remains-strong-despite-panicked-market/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-02T01:02:19Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Ethereum-15.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Ethereum-15.png" />
+      </media:content>
     </item>
     <item>
       <title>Wolf Of Wall Street Says Bitcoin Could Hit $50K Before Crashing - Cointelegraph</title>
@@ -1515,6 +1871,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/wolf-of-wall-street-says-bitcoin-could-hit-50k-before-crashing</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-02T00:49:21Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83N2JkNjA4N2I3MTNlZGFhZWRmYTY1OTc4Y2FlZjkwNC5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83N2JkNjA4N2I3MTNlZGFhZWRmYTY1OTc4Y2FlZjkwNC5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Kodak Postpones ICO To Verify ‘Accredited’ Status Of 40K Potential Investors - Cointelegraph</title>
@@ -1525,6 +1884,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/kodak-postpones-ico-to-verify-accredited-status-of-40k-potential-investors</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T23:52:47Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85YmM0YzBjZTJlM2E0OGFiYWYyZWFmMzY1ZGJiZDlmMS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85YmM0YzBjZTJlM2E0OGFiYWYyZWFmMzY1ZGJiZDlmMS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Google Searches Spell Disaster for Bitcoin - Cryptocurrency News</title>
@@ -1548,6 +1910,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/bitcoin/google-search-bitcoin-decline/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-01T22:35:40Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/01/Bitcoin-Popularity-Declines-But-Who-to-Blame.jpg">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/01/Bitcoin-Popularity-Declines-But-Who-to-Blame.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bee Token ICO Stung by $1 Million Phishing Scam - CoinDesk</title>
@@ -1558,6 +1923,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.coindesk.com/bee-token-phishing-scam/</guid>
       <dc:creator>CoinDesk</dc:creator>
       <dc:date>2018-02-01T22:15:36Z</dc:date>
+      <media:content url="https://media.coindesk.com/uploads/2018/02/bees.jpg">
+        <media:thumbnail url="https://media.coindesk.com/uploads/2018/02/bees.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Ripple’s (XRP) Bearish Turn in January, but Why? - Cryptocurrency News</title>
@@ -1581,6 +1949,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/altcoins/ripple-xrp-lost-50-market-cap-month/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-01T21:40:43Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Ripple-Bear.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Ripple-Bear.png" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin Price Analysis – Can BTC/USD Rebound? - Cryptocurrency News</title>
@@ -1605,6 +1976,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/bitcoin/02-01-18-bitcoin-price-analysis/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-01T21:38:56Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Bitcoin-Price-Analysis-Can-BTCUSD-Rebound.jpg">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Bitcoin-Price-Analysis-Can-BTCUSD-Rebound.jpg" />
+      </media:content>
     </item>
     <item>
       <title>This Artist Hides Bitcoin in Digital Paintings – If You Solve It, You Keep It - Cryptocurrency News</title>
@@ -1628,6 +2002,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cryptocurrencynews.com/daily-news/bitcoin-news/artist-hides-bitcoin-paintings-solve-keep/?utm_campaign=rss__ccn</guid>
       <dc:creator>Cryptocurrency News</dc:creator>
       <dc:date>2018-02-01T21:38:06Z</dc:date>
+      <media:content url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Bitcoin-puzzle-picture-e1517520125236.png">
+        <media:thumbnail url="https://cryptocurrencynews.com/wp-content/uploads/sites/3/2018/02/Bitcoin-puzzle-picture-e1517520125236.png" />
+      </media:content>
     </item>
     <item>
       <title>Decentralized Ethereum App Status Invests in P2P Messaging Platform - Coinjournal</title>
@@ -1638,6 +2015,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/gTbpJXomDj4/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-02-01T20:39:33Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2017/11/Status.IM-1.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2017/11/Status.IM-1.png" />
+      </media:content>
     </item>
     <item>
       <title>City of Taipei to Use IOTA’s Blockless Tangle for its Smart City Goals - Coinjournal</title>
@@ -1648,6 +2028,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/wMRgEDPxyLo/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-02-01T20:11:09Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2018/02/IOTA-Taipei.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/02/IOTA-Taipei.png" />
+      </media:content>
     </item>
     <item>
       <title>Crypto Fund Predicts Zcash To Hit Over $62K By 2025 - Cointelegraph</title>
@@ -1658,6 +2041,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/crypto-fund-predicts-zcash-to-hit-over-62k-by-2025</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T18:32:03Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80N2VhMzc3YjYxMmE2MmFlMjhlMjljOGFhMWYyYjljNi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80N2VhMzc3YjYxMmE2MmFlMjhlMjljOGFhMWYyYjljNi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Regulated, Government Issued Cryptos to Challenge Bitcoin in 2018 - Cointelegraph</title>
@@ -1668,6 +2054,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/regulated-government-issued-cryptos-to-challenge-bitcoin-in-2018</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T17:23:22Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kZTQwZTdmODNmMDQ1YzVjNmUyYjVhNzJhYjZiYzVlYy5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kZTQwZTdmODNmMDQ1YzVjNmUyYjVhNzJhYjZiYzVlYy5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Bitcoin to Get Severely Forked in 2018 - Cointelegraph</title>
@@ -1678,6 +2067,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/bitcoin-to-get-severely-forked-in-2018</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T17:16:18Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NWEzMDMwMzNiN2Y3MjZiZTRlNzBmNTZkZDM0NjhhMi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NWEzMDMwMzNiN2Y3MjZiZTRlNzBmNTZkZDM0NjhhMi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Newly Detected Malware Uses NSA Exploit To Mine Monero, Over 500K PCs Infected - Cointelegraph</title>
@@ -1687,6 +2079,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/newly-detected-malware-uses-nsa-exploit-to-mine-monero-over-500k-pcs-infected</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T16:53:04Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMzE0OGVmNmNhNTllZjVhODU0NWIxNmMwOGQ1ZWFiOS5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMzE0OGVmNmNhNTllZjVhODU0NWIxNmMwOGQ1ZWFiOS5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Worries Grow That the Price of Bitcoin Is Being Propped Up - NY Time Technology</title>
@@ -1697,6 +2092,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.nytimes.com/2018/01/31/technology/bitfinex-bitcoin-price.html?partner=rss&amp;emc=rss</guid>
       <dc:creator>NY Time Technology</dc:creator>
       <dc:date>2018-02-01T16:23:03Z</dc:date>
+      <media:content url="https://static01.nyt.com/images/2018/02/01/business/01BITCOIN/01BITCOIN-facebookJumbo.jpg">
+        <media:thumbnail url="https://static01.nyt.com/images/2018/02/01/business/01BITCOIN/01BITCOIN-facebookJumbo.jpg" />
+      </media:content>
     </item>
     <item>
       <title>European Utility Giant Says ‘No’ To Crypto Mining, Even With ‘Clean Energy’ - Cointelegraph</title>
@@ -1707,6 +2105,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/european-utility-giant-says-no-to-crypto-mining-even-with-clean-energy</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T16:19:36Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zY2JhNDM2ODgxZjY3ZmU0YTllZDkxMDY3NTMyNTNhNi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zY2JhNDM2ODgxZjY3ZmU0YTllZDkxMDY3NTMyNTNhNi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>EU Opens ‘World’s Most Comprehensive’ Blockchain Observatory And Forum - Cointelegraph</title>
@@ -1717,6 +2118,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/eu-opens-worlds-most-comprehensive-blockchain-observatory-and-forum</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T15:20:10Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85ZDg5NDZmMTZiNDM4MmYwNjJlOWMyYzM5YmY3NmNkMi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85ZDg5NDZmMTZiNDM4MmYwNjJlOWMyYzM5YmY3NmNkMi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Blockchain Project Plans to Transform Education System by Connecting Students and Teachers Directly - Cointelegraph</title>
@@ -1727,6 +2131,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/blockchain-project-plans-to-transform-education-system-by-connecting-students-and-teachers-directly</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T15:04:17Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjgwYTIzZGY5ODQ2MDJjMDI2NWI0NDQwYWVhZDY4Yi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjgwYTIzZGY5ODQ2MDJjMDI2NWI0NDQwYWVhZDY4Yi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>US: SEC, CFTC To Focus 100% On Crypto In Dedicated Hearing Next Week - Cointelegraph</title>
@@ -1737,6 +2144,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://cointelegraph.com/news/us-sec-cftc-to-focus-100-on-crypto-in-dedicated-hearing-next-week</guid>
       <dc:creator>Cointelegraph</dc:creator>
       <dc:date>2018-02-01T14:33:20Z</dc:date>
+      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MGNlM2ZlZjY4OTViMmU3YTY2MjViOTcxNGZhZGRiYi5qcGc=.jpg">
+        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MGNlM2ZlZjY4OTViMmU3YTY2MjViOTcxNGZhZGRiYi5qcGc=.jpg" />
+      </media:content>
     </item>
     <item>
       <title>South Korea Finance Minister Says No Bitcoin and Cryptocurrency Ban - Coinjournal</title>
@@ -1749,6 +2159,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/xavpIrcNkus/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-01-31T16:37:41Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2017/09/Bitcoin-South-Korea.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2017/09/Bitcoin-South-Korea.png" />
+      </media:content>
     </item>
     <item>
       <title>Japan’s Biggest Chat App Line Applies For Cryptocurrency Exchange License - Coinjournal</title>
@@ -1760,6 +2173,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/MTblt2uf__8/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-01-31T08:14:16Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2018/01/LINE-iPhone.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/01/LINE-iPhone.png" />
+      </media:content>
     </item>
     <item>
       <title>The Shift: Kodak’s Dubious Cryptocurrency Gamble - NY Time Technology</title>
@@ -1770,6 +2186,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.nytimes.com/2018/01/30/technology/kodak-blockchain-bitcoin.html?partner=rss&amp;emc=rss</guid>
       <dc:creator>NY Time Technology</dc:creator>
       <dc:date>2018-01-31T00:28:31Z</dc:date>
+      <media:content url="https://static01.nyt.com/images/2018/01/30/business/30ROOSE-3/30ROOSE-3-facebookJumbo.jpg">
+        <media:thumbnail url="https://static01.nyt.com/images/2018/01/30/business/30ROOSE-3/30ROOSE-3-facebookJumbo.jpg" />
+      </media:content>
     </item>
     <item>
       <title>Facebook Bans Ads for Bitcoin and Other Cryptocurrencies - NY Time Technology</title>
@@ -1780,6 +2199,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>https://www.nytimes.com/2018/01/30/technology/facebook-cryptocurrency-ads.html?partner=rss&amp;emc=rss</guid>
       <dc:creator>NY Time Technology</dc:creator>
       <dc:date>2018-01-30T21:47:13Z</dc:date>
+      <media:content url="https://static01.nyt.com/images/2018/01/31/business/31FBCRYPTO1/31FBCRYPTO1-facebookJumbo.jpg">
+        <media:thumbnail url="https://static01.nyt.com/images/2018/01/31/business/31FBCRYPTO1/31FBCRYPTO1-facebookJumbo.jpg" />
+      </media:content>
     </item>
     <item>
       <title>MyBit Partners With Alpine to Bring Sustainable Cryptocurrency Mining to Investors - Coinjournal</title>
@@ -1791,6 +2213,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/ZK77Lqotq8c/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-01-30T12:58:24Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2018/01/Mybit-Apline-Mining.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/01/Mybit-Apline-Mining.png" />
+      </media:content>
     </item>
     <item>
       <title>Major South Korean E-Commerce Firm’s Integration of Cryptocurrencies Will Fuel Adoption - Coinjournal</title>
@@ -1801,6 +2226,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/tLfXrftsfyY/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-01-29T22:01:01Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2018/01/Bitcoin-Ecommerce-Banner.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/01/Bitcoin-Ecommerce-Banner.png" />
+      </media:content>
     </item>
     <item>
       <title>Japan’s Financial Regulator Responds To Coincheck US$530M Hack - Coinjournal</title>
@@ -1811,6 +2239,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/B1-C_7OqDYM/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-01-29T08:33:22Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2018/01/Coincheck-press-conference.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/01/Coincheck-press-conference.png" />
+      </media:content>
     </item>
     <item>
       <title>Coinbase CEO Praises Ethereum-Based Decentralized Airbnb Project - Coinjournal</title>
@@ -1822,6 +2253,9 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <guid>http://feedproxy.google.com/~r/Coinjournal/~3/92Q5TieF8Ww/</guid>
       <dc:creator>Coinjournal</dc:creator>
       <dc:date>2018-01-28T22:07:09Z</dc:date>
+      <media:content url="https://coinjournal.net/wp-content/uploads/2018/01/CryptoCribs-Banner.png">
+        <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/01/CryptoCribs-Banner.png" />
+      </media:content>
     </item>
   </channel>
 </rss>
