@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>Sample Feed - all</title>
+    <title>Sample Feed - vertical</title>
     <link>http://pixelbotstudios.com</link>
     <description>This feed has been created using ROME - Java syndication utilities</description>
     <item>
@@ -976,21 +976,6 @@
       </media:content>
     </item>
     <item>
-      <title>Bitcoin dips below $8,000. India is the latest buzzkill - CNN Money</title>
-      <link>http://rss.cnn.com/~r/rss/money_technology/~3/MtR9Tn4YHms/index.html</link>
-      <description>The price slide accelerated after India's finance minister signaled a crackdown on cryptocurrencies.&lt;img src="http://feeds.feedburner.com/~r/rss/money_technology/~4/MtR9Tn4YHms" height="1" width="1" alt=""/&gt;</description>
-      <category>all</category>
-      <category>market</category>
-      <category>bitcoin</category>
-      <pubDate>Sat, 03 Feb 2018 17:06:53 GMT</pubDate>
-      <guid>http://rss.cnn.com/~r/rss/money_technology/~3/MtR9Tn4YHms/index.html</guid>
-      <dc:creator>CNN Money</dc:creator>
-      <dc:date>2018-02-03T17:06:53Z</dc:date>
-      <media:content url="http://i2.cdn.turner.com/money/dam/assets/180202091817-india-bitcoin-780x439.jpg">
-        <media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180202091817-india-bitcoin-780x439.jpg" />
-      </media:content>
-    </item>
-    <item>
       <title>Those ‘Crypto Genius’ Ads Cost James Altucher $2.7 Million - CryptoCoins News</title>
       <link>https://www.ccn.com/crypto-genius-ads-cost-james-altucher-2-7-million/</link>
       <description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.ccn.com/crypto-genius-ads-cost-james-altucher-2-7-million/"&gt;Those ‘Crypto Genius’ Ads Cost James Altucher $2.7 Million&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.ccn.com"&gt;CCN&lt;/a&gt;&lt;/p&gt;
@@ -1208,21 +1193,6 @@
       <dc:date>2018-02-03T12:00:18Z</dc:date>
     </item>
     <item>
-      <title>Cryptocurrency market stabilizes after violent sell-off saw billions of dollars of value wiped off  - CNBC Technology</title>
-      <link>https://www.cnbc.com/2018/02/03/bitcoin-price-cryptocurrency-market-stabilizes-after-violent-sell-off.html</link>
-      <description>On Friday, many virtual coins saw a violent sell-off.</description>
-      <category>all</category>
-      <category>market</category>
-      <category>general</category>
-      <pubDate>Sat, 03 Feb 2018 11:32:00 GMT</pubDate>
-      <guid>https://www.cnbc.com/2018/02/03/bitcoin-price-cryptocurrency-market-stabilizes-after-violent-sell-off.html</guid>
-      <dc:creator>CNBC Technology</dc:creator>
-      <dc:date>2018-02-03T11:32:00Z</dc:date>
-      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/17/104950133-GettyImages-871795390-1.1910x1000.jpg">
-        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/17/104950133-GettyImages-871795390-1.1910x1000.jpg" />
-      </media:content>
-    </item>
-    <item>
       <title>Bitcoin Mining Comes To New York As Lawmakers Approve Power Allocation - Cointelegraph</title>
       <link>https://cointelegraph.com/news/bitcoin-mining-comes-to-new-york-as-lawmakers-approve-power-allocation</link>
       <description>&lt;img src="https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZTk5YTE4ZTgyMDZkNWRmNjE3YzUyZTNjMWM5OTUwMzE0LmpwZw==.jpg"&gt;&lt;p&gt;Lawmakers in a New York State town have recommended Bitcoin mining begin in an abandoned power facility. #NEWS&lt;/p&gt;</description>
@@ -1235,24 +1205,6 @@
       <dc:date>2018-02-03T09:53:51Z</dc:date>
       <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OWExOGU4MjA2ZDVkZjYxN2M1MmUzYzFjOTk1MDMxNC5qcGc=.jpg">
         <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OWExOGU4MjA2ZDVkZjYxN2M1MmUzYzFjOTk1MDMxNC5qcGc=.jpg" />
-      </media:content>
-    </item>
-    <item>
-      <title>PSA: No India hasn’t banned Bitcoin — but it’s still talking tough on crypto - Techcrunch</title>
-      <link>http://feedproxy.google.com/~r/Techcrunch/~3/md2N9Zfe-2c/</link>
-      <description>&lt;img width="680" height="510" src="https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg?w=680" class="attachment-large size-large wp-post-image" alt="" srcset="https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg?w=680 680w, https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg?w=1360 1360w, https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg?w=150 150w, https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg?w=300 300w, https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg?w=768 768w" sizes="(max-width: 680px) 100vw, 680px" /&gt;&amp;nbsp;Reports of the death of Bitcoin in India have been greatly exaggerated. &lt;a href="https://techcrunch.com/2018/02/03/psa-no-india-hasnt-banned-bitcoin-but-its-still-talking-tough-on-crypto/?ncid=rss"&gt;Read More&lt;/a&gt;&lt;div class="feedflare"&gt;
-&lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=md2N9Zfe-2c:7zOmGnWni1Q:2mJPEYqXBVI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=md2N9Zfe-2c:7zOmGnWni1Q:7Q72WNTAKBA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=md2N9Zfe-2c:7zOmGnWni1Q:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=md2N9Zfe-2c:7zOmGnWni1Q:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=md2N9Zfe-2c:7zOmGnWni1Q:-BTjWOF_DHI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=md2N9Zfe-2c:7zOmGnWni1Q:D7DqB2pKExk"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?i=md2N9Zfe-2c:7zOmGnWni1Q:D7DqB2pKExk" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/Techcrunch?a=md2N9Zfe-2c:7zOmGnWni1Q:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/Techcrunch/~4/md2N9Zfe-2c" height="1" width="1" alt=""/&gt;</description>
-      <category>all</category>
-      <category>market</category>
-      <category>bitcoin</category>
-      <category>general</category>
-      <pubDate>Sat, 03 Feb 2018 09:42:43 GMT</pubDate>
-      <guid>http://feedproxy.google.com/~r/Techcrunch/~3/md2N9Zfe-2c/</guid>
-      <dc:creator>Techcrunch</dc:creator>
-      <dc:date>2018-02-03T09:42:43Z</dc:date>
-      <media:content url="https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg">
-        <media:thumbnail url="https://tctechcrunch2011.files.wordpress.com/2016/06/photo-01-06-2016-15-52-27.jpg" />
       </media:content>
     </item>
     <item>
@@ -1457,36 +1409,6 @@ Why Might Regulation Be Discussed at the G20 Summit?
       </media:content>
     </item>
     <item>
-      <title>Bitcoin is bottoming, expect a 70 percent surge: Trader - CNBC Technology</title>
-      <link>https://www.cnbc.com/2018/02/02/bitcoin-is-bottoming-expect-a-70-percent-surge-trader.html</link>
-      <description>Bill Baruch, president of Blue Line Futures, explains why he is buying the recent bitcoin sell-off.</description>
-      <category>all</category>
-      <category>market</category>
-      <category>bitcoin</category>
-      <pubDate>Fri, 02 Feb 2018 21:58:00 GMT</pubDate>
-      <guid>https://www.cnbc.com/2018/02/02/bitcoin-is-bottoming-expect-a-70-percent-surge-trader.html</guid>
-      <dc:creator>CNBC Technology</dc:creator>
-      <dc:date>2018-02-02T21:58:00Z</dc:date>
-      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/02/104985822-GettyImages-910099824.1910x1000.jpg">
-        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/02/104985822-GettyImages-910099824.1910x1000.jpg" />
-      </media:content>
-    </item>
-    <item>
-      <title>JPMorgan Chase, Bank of America &amp; Citi bar people from buying bitcoin with a credit card - CNBC Technology</title>
-      <link>https://www.cnbc.com/2018/02/02/jpmorgan-chase-bank-of-america-bar-bitcoin-buys-with-a-credit-card.html</link>
-      <description>J.P. Morgan Chase and Bank of America said Friday they are no longer allowing customers to buy cryptocurrencies using credit cards.</description>
-      <category>all</category>
-      <category>market</category>
-      <category>bitcoin</category>
-      <pubDate>Fri, 02 Feb 2018 21:56:00 GMT</pubDate>
-      <guid>https://www.cnbc.com/2018/02/02/jpmorgan-chase-bank-of-america-bar-bitcoin-buys-with-a-credit-card.html</guid>
-      <dc:creator>CNBC Technology</dc:creator>
-      <dc:date>2018-02-02T21:56:00Z</dc:date>
-      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/09/12/104705629-20170912-8447-2447.1910x1000.jpg">
-        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/09/12/104705629-20170912-8447-2447.1910x1000.jpg" />
-      </media:content>
-    </item>
-    <item>
       <title>Canadian Regulators Approve Country's First Blockchain ETF - CoinDesk</title>
       <link>https://www.coindesk.com/canada-approves-countrys-first-blockchain-etf/</link>
       <description>Regulators have approved Canada's first blockchain exchange-traded fund (ETF). Two other Canadian companies are seeking to launch blockchain funds.</description>
@@ -1684,21 +1606,6 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       </media:content>
     </item>
     <item>
-      <title>Cryptocurrency fans are moving to Puerto Rico to build 'Puertopia,' a blockchain-based society - CNBC Technology</title>
-      <link>https://www.cnbc.com/2018/02/02/making-a-crypto-utopia-in-puerto-rico.html</link>
-      <description>Dozens of entrepreneurs, made newly wealthy by blockchain and cryptocurrencies, are heading to Puerto Rico this winter, The New York Times reports.</description>
-      <category>all</category>
-      <category>market</category>
-      <category>general</category>
-      <pubDate>Fri, 02 Feb 2018 19:03:00 GMT</pubDate>
-      <guid>https://www.cnbc.com/2018/02/02/making-a-crypto-utopia-in-puerto-rico.html</guid>
-      <dc:creator>CNBC Technology</dc:creator>
-      <dc:date>2018-02-02T19:03:00Z</dc:date>
-      <media:content url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/02/104985750-CRYPTO_HAVEN_ADV04_1.1910x1000.JPG">
-        <media:thumbnail url="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/02/104985750-CRYPTO_HAVEN_ADV04_1.1910x1000.JPG" />
-      </media:content>
-    </item>
-    <item>
       <title>Botnet Infects Half a Million Servers to Mine Thousands of Monero - CoinDesk</title>
       <link>https://www.coindesk.com/botnet-infects-half-million-servers-mine-thousands-monero/</link>
       <description>A cryptocurrency miner botnet has infected more than half a million machines, hijacking them to mine as much as $3.6 million worth of monero.</description>
@@ -1811,21 +1718,6 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <dc:date>2018-02-02T16:25:10Z</dc:date>
       <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iZmM5MTIyNDcxNGU1NjVjYzcwZjAzNjQ5YWM5YzI1MC5qcGc=.jpg">
         <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iZmM5MTIyNDcxNGU1NjVjYzcwZjAzNjQ5YWM5YzI1MC5qcGc=.jpg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Iced tea company kills plan to buy bitcoin mining rigs - CNN Money</title>
-      <link>http://rss.cnn.com/~r/rss/money_technology/~3/Ei-29ccB_ho/index.html</link>
-      <description>Read full story for latest details.&lt;img src="http://feeds.feedburner.com/~r/rss/money_technology/~4/Ei-29ccB_ho" height="1" width="1" alt=""/&gt;</description>
-      <category>all</category>
-      <category>market</category>
-      <category>bitcoin</category>
-      <pubDate>Fri, 02 Feb 2018 16:22:32 GMT</pubDate>
-      <guid>http://rss.cnn.com/~r/rss/money_technology/~3/Ei-29ccB_ho/index.html</guid>
-      <dc:creator>CNN Money</dc:creator>
-      <dc:date>2018-02-02T16:22:32Z</dc:date>
-      <media:content url="http://i2.cdn.turner.com/money/dam/assets/180124165635-should-i-buy-bitcoin-780x439.jpg">
-        <media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/180124165635-should-i-buy-bitcoin-780x439.jpg" />
       </media:content>
     </item>
     <item>
@@ -2104,21 +1996,6 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <dc:date>2018-02-02T10:00:45Z</dc:date>
       <media:content url="https://media.coindesk.com/uploads/2017/10/shutterstock_284080586-e1509357561829.jpg">
         <media:thumbnail url="https://media.coindesk.com/uploads/2017/10/shutterstock_284080586-e1509357561829.jpg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Making a Crypto Utopia in Puerto Rico - NY Time Technology</title>
-      <link>https://www.nytimes.com/2018/02/02/technology/cryptocurrency-puerto-rico.html?partner=rss&amp;emc=rss</link>
-      <description>Dozens of entrepreneurs, made newly wealthy by virtual currencies, have moved to the island to avoid taxes on their fortunes — and to build a society that runs on blockchain.</description>
-      <category>all</category>
-      <category>market</category>
-      <category>general</category>
-      <pubDate>Fri, 02 Feb 2018 10:00:30 GMT</pubDate>
-      <guid>https://www.nytimes.com/2018/02/02/technology/cryptocurrency-puerto-rico.html?partner=rss&amp;emc=rss</guid>
-      <dc:creator>NY Time Technology</dc:creator>
-      <dc:date>2018-02-02T10:00:30Z</dc:date>
-      <media:content url="https://static01.nyt.com/images/2018/02/02/business/04Cryptohaven-alpha/04Cryptohaven-alpha-facebookJumbo.jpg">
-        <media:thumbnail url="https://static01.nyt.com/images/2018/02/02/business/04Cryptohaven-alpha/04Cryptohaven-alpha-facebookJumbo.jpg" />
       </media:content>
     </item>
     <item>
@@ -2410,21 +2287,6 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       </media:content>
     </item>
     <item>
-      <title>Worries Grow That the Price of Bitcoin Is Being Propped Up - NY Time Technology</title>
-      <link>https://www.nytimes.com/2018/01/31/technology/bitfinex-bitcoin-price.html?partner=rss&amp;emc=rss</link>
-      <description>When the price of Bitcoin goes down, activity on an influential exchange pumps it back up. That has investors and regulators asking questions.</description>
-      <category>all</category>
-      <category>market</category>
-      <category>bitcoin</category>
-      <pubDate>Thu, 01 Feb 2018 16:23:03 GMT</pubDate>
-      <guid>https://www.nytimes.com/2018/01/31/technology/bitfinex-bitcoin-price.html?partner=rss&amp;emc=rss</guid>
-      <dc:creator>NY Time Technology</dc:creator>
-      <dc:date>2018-02-01T16:23:03Z</dc:date>
-      <media:content url="https://static01.nyt.com/images/2018/02/01/business/01BITCOIN/01BITCOIN-facebookJumbo.jpg">
-        <media:thumbnail url="https://static01.nyt.com/images/2018/02/01/business/01BITCOIN/01BITCOIN-facebookJumbo.jpg" />
-      </media:content>
-    </item>
-    <item>
       <title>South Korea Finance Minister Says No Bitcoin and Cryptocurrency Ban - Coinjournal</title>
       <link>http://feedproxy.google.com/~r/Coinjournal/~3/xavpIrcNkus/</link>
       <description>&lt;p&gt;Although it has been made clear by the South Korean government on several occasions that a ban on bitcoin and cryptocurrency trading will not be imposed, parts of the market have remained bearish, still concerned about the possibility of a ban in the long-term. On January 31st, South Korea’s finance minister Kim Dong-yeon clarified their stance, [&amp;#8230;]&lt;/p&gt;
@@ -2455,36 +2317,6 @@ Retired New England Patriot Bret Lockett has partnered with M2Jets and will be i
       <dc:date>2018-01-31T08:14:16Z</dc:date>
       <media:content url="https://coinjournal.net/wp-content/uploads/2018/01/LINE-iPhone.png">
         <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/01/LINE-iPhone.png" />
-      </media:content>
-    </item>
-    <item>
-      <title>The Shift: Kodak’s Dubious Cryptocurrency Gamble - NY Time Technology</title>
-      <link>https://www.nytimes.com/2018/01/30/technology/kodak-blockchain-bitcoin.html?partner=rss&amp;emc=rss</link>
-      <description>What’s a 130-year-old photo company doing dabbling in cryptocurrency? Either revolutionizing digital rights management or trying to make a quick buck.</description>
-      <category>all</category>
-      <category>market</category>
-      <category>general</category>
-      <pubDate>Wed, 31 Jan 2018 00:28:31 GMT</pubDate>
-      <guid>https://www.nytimes.com/2018/01/30/technology/kodak-blockchain-bitcoin.html?partner=rss&amp;emc=rss</guid>
-      <dc:creator>NY Time Technology</dc:creator>
-      <dc:date>2018-01-31T00:28:31Z</dc:date>
-      <media:content url="https://static01.nyt.com/images/2018/01/30/business/30ROOSE-3/30ROOSE-3-facebookJumbo.jpg">
-        <media:thumbnail url="https://static01.nyt.com/images/2018/01/30/business/30ROOSE-3/30ROOSE-3-facebookJumbo.jpg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Facebook Bans Ads for Bitcoin and Other Cryptocurrencies - NY Time Technology</title>
-      <link>https://www.nytimes.com/2018/01/30/technology/facebook-cryptocurrency-ads.html?partner=rss&amp;emc=rss</link>
-      <description>The social network said it wanted to prevent misleading or deceptive promotional practices.</description>
-      <category>all</category>
-      <category>market</category>
-      <category>bitcoin</category>
-      <pubDate>Tue, 30 Jan 2018 21:47:13 GMT</pubDate>
-      <guid>https://www.nytimes.com/2018/01/30/technology/facebook-cryptocurrency-ads.html?partner=rss&amp;emc=rss</guid>
-      <dc:creator>NY Time Technology</dc:creator>
-      <dc:date>2018-01-30T21:47:13Z</dc:date>
-      <media:content url="https://static01.nyt.com/images/2018/01/31/business/31FBCRYPTO1/31FBCRYPTO1-facebookJumbo.jpg">
-        <media:thumbnail url="https://static01.nyt.com/images/2018/01/31/business/31FBCRYPTO1/31FBCRYPTO1-facebookJumbo.jpg" />
       </media:content>
     </item>
     <item>
