@@ -2,5 +2,19 @@
   "title": "Sample Feed - altcoin",
   "link": "http://pixelbotstudios.com",
   "description": "This feed has been created using ROME - Java syndication utilities",
-  "items": []
+  "items": [
+    {
+      "title": "Morning Asian altcoin trading roundup",
+      "url": "https://www.newsbtc.com/2018/02/06/fomo-moments-morning-asian-trading-roundup/",
+      "description": "\u003cp\u003eFOMO Moments Crypto traders do not seem to be missing out on anything today as the mass selloff continues unabated. The markets are still dominated by fear during this morning’s Asian trading session. The wall of red altcoins is looking as imposing as ever as Bitcoin leads the downward charge by shedding over 23% in \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/06/fomo-moments-morning-asian-trading-roundup/\" class\u003d\"more-link\" data-wpel-link\u003d\"internal\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eMorning Asian altcoin trading roundup\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/06/fomo-moments-morning-asian-trading-roundup/\" data-wpel-link\u003d\"internal\"\u003eMorning Asian altcoin trading roundup\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\" data-wpel-link\u003d\"internal\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "image-u-r-l": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/06042417/fomo.jpg",
+      "published-date": "Feb 5, 2018 8:25:04 PM",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "altcoin"
+      ]
+    }
+  ]
 }
