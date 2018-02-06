@@ -1,0 +1,20 @@
+{
+  "title": "Sample Feed - ripple",
+  "link": "http://pixelbotstudios.com",
+  "description": "This feed has been created using ROME - Java syndication utilities",
+  "items": [
+    {
+      "title": "Ripple\u0027s XRP Worst Hit By January Market Decline",
+      "url": "https://www.coindesk.com/ripples-xrp-hit-worst-january-crypto-market-decline/",
+      "description": "Large-cap cryptocurrencies may have had a stellar 2017, but 2018 hasn\u0027t been so kind – with several being worst hit.",
+      "image-u-r-l": "https://media.coindesk.com/uploads/2018/02/ball-deflate-e1517605643399.jpg",
+      "published-date": "Feb 3, 2018 4:40:32 AM",
+      "source": "CoinDesk",
+      "categories": [
+        "all",
+        "vertical",
+        "ripple"
+      ]
+    }
+  ]
+}
