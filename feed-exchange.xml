@@ -5,24 +5,6 @@
     <link>http://pixelbotstudios.com</link>
     <description>This feed has been created using ROME - Java syndication utilities</description>
     <item>
-      <title>Bitcoin Exchange Coinbase Defends Itself on Credit Card Charges, Admits Missteps - CryptoCoins News</title>
-      <link>https://www.ccn.com/coinbase-defends-itself-on-c-card-charges-admits-missteps/</link>
-      <description>&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.ccn.com/coinbase-defends-itself-on-c-card-charges-admits-missteps/"&gt;Bitcoin Exchange Coinbase Defends Itself on Credit Card Charges, Admits Missteps&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.ccn.com"&gt;CCN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Cryptocurrency investors are seeing added fees on their credit card statements, but Coinbase is just the messenger. Leading US cryptocurrency exchange Coinbase in a blog provided an update to investors about the fees, which are being levied immediately following a purchase of a digital coin. Coinbase said the charges &amp;#8212; which have a separate line item and are&lt;/p&gt;
-&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.ccn.com/coinbase-defends-itself-on-c-card-charges-admits-missteps/"&gt;Bitcoin Exchange Coinbase Defends Itself on Credit Card Charges, Admits Missteps&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.ccn.com"&gt;CCN&lt;/a&gt;&lt;/p&gt;</description>
-      <category>all</category>
-      <category>vertical</category>
-      <category>bitcoin</category>
-      <category>exchange</category>
-      <pubDate>Thu, 08 Feb 2018 01:08:16 GMT</pubDate>
-      <guid>https://www.ccn.com/coinbase-defends-itself-on-c-card-charges-admits-missteps/</guid>
-      <dc:creator>CryptoCoins News</dc:creator>
-      <dc:date>2018-02-08T01:08:16Z</dc:date>
-      <media:content url="https://www.ccn.com/wp-content/uploads/2014/10/credit-card-square.jpg">
-        <media:thumbnail url="https://www.ccn.com/wp-content/uploads/2014/10/credit-card-square.jpg" />
-      </media:content>
-    </item>
-    <item>
       <title>Coinbase to Integrate SegWit by February - Coinjournal</title>
       <link>http://feedproxy.google.com/~r/Coinjournal/~3/nVVfXlw0rWY/</link>
       <description>&lt;p&gt;Coinbase, the world’s largest cryptocurrency brokerage, wallet, and exchange which also operates GDAX, the Global Digital Asset Exchange, has officially announced that it will complete the integration of Segregated Witness (SegWit) in the coming weeks. Our engineering team has begun the final testing phase of SegWit for Bitcoin on Coinbase. SegWit compatible Bitcoin sends/receives will [&amp;#8230;]&lt;/p&gt;
@@ -36,22 +18,6 @@
       <dc:date>2018-02-06T21:06:02Z</dc:date>
       <media:content url="https://coinjournal.net/wp-content/uploads/2018/02/Coinbase-Segwit.png">
         <media:thumbnail url="https://coinjournal.net/wp-content/uploads/2018/02/Coinbase-Segwit.png" />
-      </media:content>
-    </item>
-    <item>
-      <title>Coinbase Crypto Exchange To Roll Out Long-Awaited SegWit Upgrade In ‘Few Weeks’ - Cointelegraph</title>
-      <link>https://cointelegraph.com/news/coinbase-crypto-exchange-to-roll-out-long-awaited-segwit-upgrade-in-few-weeks</link>
-      <description>&lt;img src="https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZWI1NzE3ZGIxNjI3ODk1NzdkOGMzZmIzZjUwMjM0ZDg1LmpwZw==.jpg"&gt;&lt;p&gt;Coinbase to add SegWit scalability upgrade for BTC sending and receiving in the next few weeks. #NEWS&lt;/p&gt;</description>
-      <category>all</category>
-      <category>vertical</category>
-      <category>exchange</category>
-      <category>general</category>
-      <pubDate>Tue, 06 Feb 2018 15:10:32 GMT</pubDate>
-      <guid>https://cointelegraph.com/news/coinbase-crypto-exchange-to-roll-out-long-awaited-segwit-upgrade-in-few-weeks</guid>
-      <dc:creator>Cointelegraph</dc:creator>
-      <dc:date>2018-02-06T15:10:32Z</dc:date>
-      <media:content url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNTcxN2RiMTYyNzg5NTc3ZDhjM2ZiM2Y1MDIzNGQ4NS5qcGc=.jpg">
-        <media:thumbnail url="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNTcxN2RiMTYyNzg5NTc3ZDhjM2ZiM2Y1MDIzNGQ4NS5qcGc=.jpg" />
       </media:content>
     </item>
   </channel>

@@ -4,11 +4,24 @@
   "description": "This feed has been created using ROME - Java syndication utilities",
   "items": [
     {
-      "title": "Japan to inspect more cryptocurrency exchanges soon, may expand probe, source says",
-      "url": "https://www.cnbc.com/2018/02/07/japan-to-inspect-more-cryptocurrency-exchanges-soon-may-expand-probe-source-says.html",
-      "description": "Japan will conduct on-site inspections on cryptocurrency exchange operators this week, a source told Reuters.",
-      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/07/104995856-GettyImages-911704674.1910x1000.jpg",
-      "publishedDate": "Feb 7, 2018 5:59:00 PM",
+      "title": "CryptoWatch: Bitcoin may not be done collapsing, but it has bounced back from worse",
+      "url": "http://www.marketwatch.com/news/story.asp?guid\u003d%7B45F50602-1009-11E8-B029-A959A5F50C0D%7D\u0026siteid\u003drss\u0026rss\u003d1",
+      "description": "The bitcoin bubble may not yet be done popping, but that doesn’t mean the world’s largest digital currency is headed for zero, as more Wall Street analysts seem to think.\u003cdiv class\u003d\"feedflare\"\u003e\n\u003ca href\u003d\"http://feeds.marketwatch.com/~ff/marketwatch/topstories?a\u003dToA44RshquM:1OAkV3HdoUg:yIl2AUoC8zA\"\u003e\u003cimg src\u003d\"http://feeds.feedburner.com/~ff/marketwatch/topstories?d\u003dyIl2AUoC8zA\" border\u003d\"0\"\u003e\u003c/img\u003e\u003c/a\u003e \u003ca href\u003d\"http://feeds.marketwatch.com/~ff/marketwatch/topstories?a\u003dToA44RshquM:1OAkV3HdoUg:F7zBnMyn0Lo\"\u003e\u003cimg src\u003d\"http://feeds.feedburner.com/~ff/marketwatch/topstories?i\u003dToA44RshquM:1OAkV3HdoUg:F7zBnMyn0Lo\" border\u003d\"0\"\u003e\u003c/img\u003e\u003c/a\u003e \u003ca href\u003d\"http://feeds.marketwatch.com/~ff/marketwatch/topstories?a\u003dToA44RshquM:1OAkV3HdoUg:V_sGLiPBpWU\"\u003e\u003cimg src\u003d\"http://feeds.feedburner.com/~ff/marketwatch/topstories?i\u003dToA44RshquM:1OAkV3HdoUg:V_sGLiPBpWU\" border\u003d\"0\"\u003e\u003c/img\u003e\u003c/a\u003e \u003ca href\u003d\"http://feeds.marketwatch.com/~ff/marketwatch/topstories?a\u003dToA44RshquM:1OAkV3HdoUg:qj6IDK7rITs\"\u003e\u003cimg src\u003d\"http://feeds.feedburner.com/~ff/marketwatch/topstories?d\u003dqj6IDK7rITs\" border\u003d\"0\"\u003e\u003c/img\u003e\u003c/a\u003e\n\u003c/div\u003e\u003cimg src\u003d\"http://feeds.feedburner.com/~r/marketwatch/topstories/~4/ToA44RshquM\" height\u003d\"1\" width\u003d\"1\" alt\u003d\"\"/\u003e",
+      "imageURL": "http://s.marketwatch.com/public/resources/MWimages/MW-GD546_envoyb_ZG_20180212104345.jpg",
+      "publishedDate": "Feb 12, 2018 8:45:45 AM",
+      "source": "Market Watch Top Stories",
+      "categories": [
+        "all",
+        "market",
+        "bitcoin"
+      ]
+    },
+    {
+      "title": "Cryptocurrency speculation could ‘destroy’ innovation, Singapore central bank exec says",
+      "url": "https://www.cnbc.com/2018/02/12/cryptocurrency-speculation-could-hurt-innovation-mas-fintech-exec.html",
+      "description": "Sopnendu Mohanty, chief fintech officer of the Monetary Authority of Singapore (MAS), voiced his concerns about speculative cryptocurrency trading.",
+      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/06/104990766-GettyImages-902821724.1910x1000.jpg",
+      "publishedDate": "Feb 12, 2018 4:43:00 AM",
       "source": "CNBC Technology",
       "categories": [
         "all",
@@ -17,25 +30,12 @@
       ]
     },
     {
-      "title": "Bitcoin will someday be worth as much as 40 times its current value, says Cameron Winklevoss",
-      "url": "https://www.cnbc.com/2018/02/07/winklevoss-twins-bitcoin-will-be-worth-40-times-current-value.html",
-      "description": "Brother Tyler Winklevoss hit back at bitcoin critics, saying that any criticism is a \u0026#039;failure of the imagination.\u0026#039; ",
-      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/10/08/103063750-20151008-2951-1722.1910x1000.jpg",
-      "publishedDate": "Feb 7, 2018 9:44:00 AM",
-      "source": "CNBC Technology",
-      "categories": [
-        "all",
-        "market",
-        "bitcoin"
-      ]
-    },
-    {
-      "title": "Bitcoin surges by more than $2,000 in just over a day",
-      "url": "https://www.cnbc.com/2018/02/07/bitcoin-surges-by-more-than-2000-in-just-over-a-day.html",
-      "description": "Bitcoin rose Wednesday morning along with sharp gains in other major cryptocurrencies.",
-      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/12/14/104899288-GettyImages-882963066.1910x1000.jpg",
-      "publishedDate": "Feb 7, 2018 5:31:00 AM",
-      "source": "CNBC Technology",
+      "title": "Op-Ed Contributor: What Bitcoin Reveals About Financial Markets",
+      "url": "https://www.nytimes.com/2018/02/08/opinion/bitcoin-financial-markets.html?partner\u003drss\u0026emc\u003drss",
+      "description": "The cryptocurrency bubble should finally destroy our faith that the market works as advertised.",
+      "imageURL": "https://static01.nyt.com/images/2018/02/08/opinion/08Quiggen-web/08Quiggen-web-facebookJumbo.jpg",
+      "publishedDate": "Feb 8, 2018 12:26:34 PM",
+      "source": "NY Time Technology",
       "categories": [
         "all",
         "market",
@@ -72,25 +72,13 @@
       "title": "Iced tea company kills plan to buy bitcoin mining rigs",
       "url": "http://rss.cnn.com/~r/rss/money_technology/~3/Ei-29ccB_ho/index.html",
       "description": "Read full story for latest details.\u003cimg src\u003d\"http://feeds.feedburner.com/~r/rss/money_technology/~4/Ei-29ccB_ho\" height\u003d\"1\" width\u003d\"1\" alt\u003d\"\"/\u003e",
+      "imageURL": "http://i2.cdn.turner.com/money/dam/assets/180124165635-should-i-buy-bitcoin-780x439.jpg",
       "publishedDate": "Feb 2, 2018 8:22:32 AM",
       "source": "CNN Money",
       "categories": [
         "all",
         "market",
         "bitcoin"
-      ]
-    },
-    {
-      "title": "Making a Crypto Utopia in Puerto Rico",
-      "url": "https://www.nytimes.com/2018/02/02/technology/cryptocurrency-puerto-rico.html?partner\u003drss\u0026emc\u003drss",
-      "description": "Dozens of entrepreneurs, made newly wealthy by virtual currencies, have moved to the island to avoid taxes on their fortunes — and to build a society that runs on blockchain.",
-      "imageURL": "https://static01.nyt.com/images/2018/02/02/business/04Cryptohaven-alpha/04Cryptohaven-alpha-facebookJumbo.jpg",
-      "publishedDate": "Feb 2, 2018 2:00:30 AM",
-      "source": "NY Time Technology",
-      "categories": [
-        "all",
-        "market",
-        "general"
       ]
     }
   ]

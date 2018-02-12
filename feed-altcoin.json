@@ -2,32 +2,5 @@
   "title": "Sample Feed - altcoin",
   "link": "http://pixelbotstudios.com",
   "description": "This feed has been created using ROME - Java syndication utilities",
-  "items": [
-    {
-      "title": "Altcoin Analysis: NEO, EOS, LTC, NEM and Lumens",
-      "url": "https://www.newsbtc.com/2018/02/08/alt-coin-analysis-neo-eos-ltc-nem-lumens-4/",
-      "description": "\u003cp\u003eThere is a wholesome altcoin price recovery all across the board, and that\u0026#8217;s a wonderful thing to see in this otherwise bearish trend. If there is a push and close above key Fibonacci resistance levels and the middle BB in most pairs, then the better for buyers. Let’s have a look at these charts: Alt \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/08/alt-coin-analysis-neo-eos-ltc-nem-lumens-4/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eAltcoin Analysis: NEO, EOS, LTC, NEM and Lumens\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/08/alt-coin-analysis-neo-eos-ltc-nem-lumens-4/\"\u003eAltcoin Analysis: NEO, EOS, LTC, NEM and Lumens\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
-      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/08044108/XEMUSD-Daily-Chart-08.02.2018.png",
-      "publishedDate": "Feb 7, 2018 8:51:29 PM",
-      "source": "News BTC",
-      "categories": [
-        "all",
-        "vertical",
-        "altcoin"
-      ]
-    },
-    {
-      "title": "Morning Asian Altcoin Trading Roundup: the leader is Lisk",
-      "url": "https://www.newsbtc.com/2018/02/08/morning-asian-trading-roundup-the-leading-altcoin-is-lisk-2/",
-      "description": "\u003cp\u003eFOMO Moments \u0026#160; A mixed bag greeted us during this morning’s Asian trading session. A bit of a cool off from dip buying has leveled out the markets but they are still mostly in the green. Bitcoin is holding $8,000 which is good news for all the altcoins which seem to be heading upwards still. \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/08/morning-asian-trading-roundup-the-leading-altcoin-is-lisk-2/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eMorning Asian Altcoin Trading Roundup: the leader is Lisk\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/08/morning-asian-trading-roundup-the-leading-altcoin-is-lisk-2/\"\u003eMorning Asian Altcoin Trading Roundup: the leader is Lisk\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
-      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/08043440/liskchart2.jpg",
-      "publishedDate": "Feb 7, 2018 8:35:22 PM",
-      "source": "News BTC",
-      "categories": [
-        "all",
-        "vertical",
-        "altcoin"
-      ]
-    }
-  ]
+  "items": []
 }
