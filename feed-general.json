@@ -4,6 +4,24 @@
   "description": "This feed has been created using ROME - Java syndication utilities",
   "items": [
     {
+      "title": "Asian Altcoin Trading Roundup: Top Cryptocurrency is Litecoin - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/26/171853/",
+      "description": "\u003cp\u003eFOMO Moments Monday morning in crypto land brings a pretty flat market to start the week. Traders have been resting over the weekend and there has been little movement in either direction for many of the altcoins. Bitcoin barely moved over the past two days and has remained steady at around $9,700. A few of \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/26/171853/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eAsian Altcoin Trading Roundup: Top Cryptocurrency is Litecoin\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/26/171853/\"\u003eAsian Altcoin Trading Roundup: Top Cryptocurrency is Litecoin\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/26043114/fomo-ltc.jpg",
+      "publishedDate": "2018-02-25T20:32:59.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "litecoin",
+        "altcoin",
+        "general",
+        "general",
+        "litecoin"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/26/171853/"
+    },
+    {
       "title": "Venezuela May Move to Limit New Crypto Exchange Launches - CoinDesk",
       "url": "https://www.coindesk.com/venezuela-may-move-limit-new-crypto-exchange-launches/",
       "description": "In the wake of its petro launch, Venezuela may still limit the number of crypto exchanges permitted to operate in the country, sources say.",
@@ -58,6 +76,22 @@
         "general"
       ],
       "guid": "https://www.newsbtc.com/2018/02/25/more-crypto-companies-are-consulting-compliance-advisors-in-attempts-to-avoid-bad-actors/"
+    },
+    {
+      "title": "Women in Cryptocurrencies Push Back Against ‘Blockchain Bros’ - NY Time Technology",
+      "url": "https://www.nytimes.com/2018/02/25/business/cryptocurrency-women-blockchain-bros.html?partner\u003drss\u0026emc\u003drss",
+      "description": "Cryptocurrencies and blockchain were meant to be great equalizers. Instead, women are finding that the gold rush is already stacked against them.",
+      "imageURL": "https://static01.nyt.com/images/2018/02/26/business/26CRYPTOWOMEN1/26CRYPTOWOMEN1-facebookJumbo.jpg",
+      "publishedDate": "2018-02-25T15:19:03.000-0800",
+      "source": "NY Time Technology",
+      "categories": [
+        "all",
+        "market",
+        "general",
+        "general",
+        "blockchain"
+      ],
+      "guid": "https://www.nytimes.com/2018/02/25/business/cryptocurrency-women-blockchain-bros.html?partner\u003drss\u0026emc\u003drss"
     },
     {
       "title": "Thai Bank Terminates Account of Local Cryptocurrency Exchange - bitcoin.com News",
