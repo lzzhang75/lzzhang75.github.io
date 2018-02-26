@@ -2,5 +2,63 @@
   "title": "Sample Feed - altcoin",
   "link": "http://pixelbotstudios.com",
   "description": "This feed has been created using ROME - Java syndication utilities",
-  "items": []
+  "items": [
+    {
+      "title": "Altcoin Analysis: NEO, EOS, LTC, DASH and Lumens (XLM) - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/24/altcoin-analysis-neo-eos-ltc-dash-lumens-3/",
+      "description": "\u003cp\u003eWe are seeing a change of fortune as far as price action and altcoins is concerned. LTC, Lumens and DASH are on the fore front printing clear bull patterns that awaits confirmations today. Besides these three, we remain neutral on EOS unless we see a close above $9.5 while NEO is also encouraging as scalpers \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/24/altcoin-analysis-neo-eos-ltc-dash-lumens-3/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eAltcoin Analysis: NEO, EOS, LTC, DASH and Lumens (XLM)\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/24/altcoin-analysis-neo-eos-ltc-dash-lumens-3/\"\u003eAltcoin Analysis: NEO, EOS, LTC, DASH and Lumens (XLM)\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/24065735/LTCUSD-Daily-Chart-24.02.2018.png",
+      "publishedDate": "2018-02-23T23:05:33.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "altcoin"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/24/altcoin-analysis-neo-eos-ltc-dash-lumens-3/"
+    },
+    {
+      "title": "Asian Altcoin Trading Roundup: Nano is Leading the Way - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/24/asian-altcoin-trading-roundup-nano-is-leading-the-way/",
+      "description": "\u003cp\u003eFOMO Moments There has been an unexpected turnaround this morning and the markets have rebounded a little. Weekends are usually times when selloffs occur, led by Asia, but today everything is in the green once again. Bitcoin is leading the pack with a 7.5% recovery on yesterday’s prices to $10.500, altcoins have followed it back \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/24/asian-altcoin-trading-roundup-nano-is-leading-the-way/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eAsian Altcoin Trading Roundup: Nano is Leading the Way\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/24/asian-altcoin-trading-roundup-nano-is-leading-the-way/\"\u003eAsian Altcoin Trading Roundup: Nano is Leading the Way\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/22042246/fomo-nano.jpg",
+      "publishedDate": "2018-02-23T18:50:58.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "altcoin"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/24/asian-altcoin-trading-roundup-nano-is-leading-the-way/"
+    },
+    {
+      "title": "Altcoin Analysis: NEO, EOS, LTC, IOT and Lumens - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/22/altcoin-analysis-neo-eos-ltc-dash-lumens/",
+      "description": "\u003cp\u003eThere is a broad base correction back as we are seeing in pairs as NEO, EOS, LTC and even Lumens. DASH remains resilient but there is room for downside especially if we see any depreciation below $620. Selling looks like a very short term bet as we anticipate correction back towards break out levels. By \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/22/altcoin-analysis-neo-eos-ltc-dash-lumens/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eAltcoin Analysis: NEO, EOS, LTC, IOT and Lumens\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/22/altcoin-analysis-neo-eos-ltc-dash-lumens/\"\u003eAltcoin Analysis: NEO, EOS, LTC, IOT and Lumens\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/22053727/DASHUSD-Daily-Chart-22.02.2018.png",
+      "publishedDate": "2018-02-21T21:50:06.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "altcoin"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/22/altcoin-analysis-neo-eos-ltc-dash-lumens/"
+    },
+    {
+      "title": "Asian Altcoin Trading Roundup: Top Cryptocurrency is Nano - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/22/asian-altcoin-trading-roundup-top-cryptocurrency-is-nano/",
+      "description": "\u003cp\u003eFOMO Moments The markets have continued correcting during the Asian trading session this morning. Bitcoin continues with its slow sell off but the some of the altcoins seem to be accelerating downwards at a faster rate. BTC seems to have found support at $10,500 and has headed upwards slightly however it is still down around \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/22/asian-altcoin-trading-roundup-top-cryptocurrency-is-nano/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eAsian Altcoin Trading Roundup: Top Cryptocurrency is Nano\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/22/asian-altcoin-trading-roundup-top-cryptocurrency-is-nano/\"\u003eAsian Altcoin Trading Roundup: Top Cryptocurrency is Nano\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/22042246/fomo-nano.jpg",
+      "publishedDate": "2018-02-21T20:23:02.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "altcoin",
+        "general"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/22/asian-altcoin-trading-roundup-top-cryptocurrency-is-nano/"
+    }
+  ]
 }

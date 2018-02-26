@@ -4,17 +4,90 @@
   "description": "This feed has been created using ROME - Java syndication utilities",
   "items": [
     {
-      "title": "Coinbase to Integrate SegWit by February",
-      "url": "http://feedproxy.google.com/~r/Coinjournal/~3/nVVfXlw0rWY/",
-      "description": "\u003cp\u003eCoinbase, the world’s largest cryptocurrency brokerage, wallet, and exchange which also operates GDAX, the Global Digital Asset Exchange, has officially announced that it will complete the integration of Segregated Witness (SegWit) in the coming weeks. Our engineering team has begun the final testing phase of SegWit for Bitcoin on Coinbase. SegWit compatible Bitcoin sends/receives will [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThis post \u003ca rel\u003d\"nofollow\" href\u003d\"https://coinjournal.net/coinbase-integrate-segwit-february/\"\u003eCoinbase to Integrate SegWit by February\u003c/a\u003e first appeared on \u003ca rel\u003d\"nofollow\" href\u003d\"https://coinjournal.net\"\u003eCoinjournal\u003c/a\u003e.\u003c/p\u003e\u003cimg src\u003d\"http://feeds.feedburner.com/~r/Coinjournal/~4/nVVfXlw0rWY\" height\u003d\"1\" width\u003d\"1\" alt\u003d\"\"/\u003e",
-      "imageURL": "https://coinjournal.net/wp-content/uploads/2018/02/Coinbase-Segwit.png",
-      "publishedDate": "Feb 6, 2018 1:06:02 PM",
-      "source": "Coinjournal",
+      "title": "Coinbase Informs 13K Affected Customers Of Imminent Data Handover To IRS - Cointelegraph",
+      "url": "https://cointelegraph.com/news/coinbase-informs-13k-affected-customers-of-imminent-data-handover-to-irs",
+      "description": "\n                \u003cimg src\u003d\"https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZTg3NWEwYzAyNGIyMzdmYmFiN2VjY2ViNGQ4ZjY4NTZmLmpwZw\u003d\u003d.jpg\"\u003e\u003cp\u003eCoinbase tells approx. 13K customers it will soon turn over some of their personal account data to the IRS #NEWS\u003c/p\u003e\n            ",
+      "imageURL": "https://cointelegraph.com/images/725_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NzVhMGMwMjRiMjM3ZmJhYjdlY2NlYjRkOGY2ODU2Zi5qcGc\u003d.jpg",
+      "publishedDate": "2018-02-24T13:18:49.000-0800",
+      "source": "Cointelegraph",
       "categories": [
         "all",
         "vertical",
         "exchange"
-      ]
+      ],
+      "guid": "https://cointelegraph.com/news/coinbase-informs-13k-affected-customers-of-imminent-data-handover-to-irs"
+    },
+    {
+      "title": "Bitcoin Exchange Coinbase Launches SegWit Compatability - CryptoCoins News",
+      "url": "https://www.ccn.com/bitcoin-exchange-coinbase-launches-segwit-compatability/",
+      "description": "\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com/bitcoin-exchange-coinbase-launches-segwit-compatability/\"\u003eBitcoin Exchange Coinbase Launches SegWit Compatability\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com\"\u003eCCN\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eCoinbase have announced that the site will now be implementing SegWit on Bitcoin deposits and withdrawals. The transition is being implemented over the coming week, and should improve transaction speeds and lower fees. SegWit was introduced August of last year through BIP 141 (Bitcoin Improvement Proposal), however Coinbase was slow to adopt the technology. The lack of implementation\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com/bitcoin-exchange-coinbase-launches-segwit-compatability/\"\u003eBitcoin Exchange Coinbase Launches SegWit Compatability\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com\"\u003eCCN\u003c/a\u003e\u003c/p\u003e\n",
+      "imageURL": "https://www.ccn.com/wp-content/uploads/2017/08/CPU-upgrade.jpg",
+      "publishedDate": "2018-02-24T08:00:42.000-0800",
+      "source": "CryptoCoins News",
+      "categories": [
+        "all",
+        "vertical",
+        "bitcoin",
+        "exchange"
+      ],
+      "guid": "https://www.ccn.com/bitcoin-exchange-coinbase-launches-segwit-compatability/"
+    },
+    {
+      "title": "Coinbase, GDAX Exchange Platforms Introduce Full SegWit Support - Cointelegraph",
+      "url": "https://cointelegraph.com/news/coinbases-gdax-exchange-introduces-full-segwit-support",
+      "description": "\n                \u003cimg src\u003d\"https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZTkzMDc1NTU0ZWNmNmMxYmRmMmQ1Mjg0OTA0MDZiNTcxLmpwZw\u003d\u003d.jpg\"\u003e\u003cp\u003eTrading platform GDAX implements SegWit scaling upgrade for Bitcoin transactions #NEWS\u003c/p\u003e\n            ",
+      "imageURL": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MzA3NTU1NGVjZjZjMWJkZjJkNTI4NDkwNDA2YjU3MS5qcGc\u003d.jpg",
+      "publishedDate": "2018-02-24T07:00:21.000-0800",
+      "source": "Cointelegraph",
+      "categories": [
+        "all",
+        "vertical",
+        "exchange"
+      ],
+      "guid": "https://cointelegraph.com/news/coinbases-gdax-exchange-introduces-full-segwit-support"
+    },
+    {
+      "title": "Coinbase Gives IRS More Than 10K Users’ Information - bitcoinist.com",
+      "url": "https://bitcoinist.com/coinbase-vs-irs-exchange-turns-10000-users-information/",
+      "description": "\u003cp\u003eAfter fighting the IRS in court, popular digital currency marketplace Coinbase has been ordered by the Northern District of California to turn over more than 10,000 users\u0026#8217; personal information and trade history — but it could have been much worse. The Taxman The Beatles once sang: If you drive a car, I\u0026#8217;ll tax the street, If you try to sit, I\u0026#8217;ll tax your seat. If you get too cold, I\u0026#8217;ll tax the heat, If you\u003c/p\u003e\n\u003cdiv class\u003d\"excerpt-read-more\"\u003e\u003ca class\u003d\"read-more\" href\u003d\"https://bitcoinist.com/coinbase-vs-irs-exchange-turns-10000-users-information/\"\u003eRead More\u003c/a\u003e\u003c/div\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://bitcoinist.com/coinbase-vs-irs-exchange-turns-10000-users-information/\"\u003eCoinbase Gives IRS More Than 10K Users\u0026#8217; Information\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://bitcoinist.com\"\u003eBitcoinist.com\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://bitcoinist.com/wp-content/uploads/2018/01/wiki-irs-sign.jpg",
+      "publishedDate": "2018-02-24T06:30:38.000-0800",
+      "source": "bitcoinist.com",
+      "categories": [
+        "all",
+        "vertical",
+        "exchange"
+      ],
+      "guid": "https://bitcoinist.com/coinbase-vs-irs-exchange-turns-10000-users-information/"
+    },
+    {
+      "title": "Cryptocurrency Exchange Bitfinex Adopts SegWit, While Coinbase Launches It Next Week - Coin Speaker",
+      "url": "https://www.coinspeaker.com/2018/02/21/cryptocurrency-exchange-bitfinex-adopts-segwit-coinbase-launches-next-week/",
+      "imageURL": "https://www.coinspeaker.com/wp-content/uploads/2017/11/bitfinex.jpg",
+      "publishedDate": "2018-02-21T11:57:36.000-0800",
+      "source": "Coin Speaker",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "exchange"
+      ],
+      "guid": "https://www.coinspeaker.com/2018/02/21/cryptocurrency-exchange-bitfinex-adopts-segwit-coinbase-launches-next-week/"
+    },
+    {
+      "title": "Coinbase And Bitfinex Integrate Bitcoin Scaling Upgrade SegWit - Cointelegraph",
+      "url": "https://cointelegraph.com/news/coinbase-and-bitfinex-integrate-bitcoin-scaling-upgrade-segwit",
+      "description": "\n                \u003cimg src\u003d\"https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZWVjNmE5N2I2ZWEzMGMwMjFhYjQ5NTIyNDU0ZDQ5Mjc5LmpwZw\u003d\u003d.jpg\"\u003e\u003cp\u003eCoinbase has finished their SegWit testing to launch next week, Bitfinex already launched SegWit upgrade #NEWS\u003c/p\u003e\n            ",
+      "imageURL": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lYzZhOTdiNmVhMzBjMDIxYWI0OTUyMjQ1NGQ0OTI3OS5qcGc\u003d.jpg",
+      "publishedDate": "2018-02-21T04:41:24.000-0800",
+      "source": "Cointelegraph",
+      "categories": [
+        "all",
+        "vertical",
+        "exchange",
+        "bitcoin"
+      ],
+      "guid": "https://cointelegraph.com/news/coinbase-and-bitfinex-integrate-bitcoin-scaling-upgrade-segwit"
     }
   ]
 }
