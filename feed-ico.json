@@ -4,6 +4,33 @@
   "description": "This feed has been created using ROME - Java syndication utilities",
   "items": [
     {
+      "title": "Japan Tightens the Contol on Initial Coin Offerings (ICOs) - Coin Speaker",
+      "url": "https://www.coinspeaker.com/2018/02/27/japan-tightens-contol-initial-coin-offerings-icos/",
+      "imageURL": "https://www.coinspeaker.com/wp-content/uploads/2018/02/japan-ico.jpg",
+      "publishedDate": "2018-02-27T12:47:13.000-0800",
+      "source": "Coin Speaker",
+      "categories": [
+        "all",
+        "vertical",
+        "ico"
+      ],
+      "guid": "https://www.coinspeaker.com/2018/02/27/japan-tightens-contol-initial-coin-offerings-icos/"
+    },
+    {
+      "title": "The Telegram ICO: What We Know (And Don\u0027t) About 2018\u0027s Biggest Token Sale - CoinDesk",
+      "url": "https://www.coindesk.com/telegram-ico-know-dont-2018s-biggest-token-sale/",
+      "description": "Encrypted chat app Telegram hasn\u0027t formally announced an initial coin offering, but that isn\u0027t stopping a flurry of information about the deal.",
+      "imageURL": "https://media.coindesk.com/uploads/2018/02/shutterstock_752700430-e1519756591500.jpg",
+      "publishedDate": "2018-02-27T12:00:02.000-0800",
+      "source": "CoinDesk",
+      "categories": [
+        "all",
+        "vertical",
+        "ico"
+      ],
+      "guid": "https://www.coindesk.com/telegram-ico-know-dont-2018s-biggest-token-sale/"
+    },
+    {
       "title": "Japan\u0027s Finance Watchdog Eyeing ICO Regulation, Says Report - CoinDesk",
       "url": "https://www.coindesk.com/japans-finance-watchdog-eyeing-ico-regulation-says-report/",
       "description": "Japan\u0027s financial regulator is reportedly mulling the creation of a regulatory framework for firms raising funds through initial coin offerings.",
