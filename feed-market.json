@@ -4,6 +4,50 @@
   "description": "This feed has been created using ROME - Java syndication utilities",
   "items": [
     {
+      "title": "Amazon-coin? Most customers would use a cryptocurrency if online retailer creates one: Survey - CNBC Technology",
+      "url": "https://www.cnbc.com/2018/02/28/majority-of-shoppers-are-open-to-amazon-cryptocurrency-survey-shows.html",
+      "description": "More than half of Amazon shoppers would embrace an Amazon-created cryptocurrency to shop on the site, according to a LendEDU survey released Wednesday.",
+      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/10/20/104036234-GettyImages-450831348.1910x1000.jpg",
+      "publishedDate": "2018-02-28T08:23:00.000-0800",
+      "source": "CNBC Technology",
+      "categories": [
+        "all",
+        "market",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.cnbc.com/2018/02/28/majority-of-shoppers-are-open-to-amazon-cryptocurrency-survey-shows.html"
+    },
+    {
+      "title": "Struggling bitcoin will double by midyear, Wall Street\u0027s Tom Lee says - CNBC Technology",
+      "url": "https://www.cnbc.com/2018/02/28/struggling-bitcoin-will-double-by-mid-year-wall-streets-tom-lee-says.html",
+      "description": "Tom Lee expects the cryptocurrency market to recover, helped by historical trends and crypto-tied announcements by major firms.",
+      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/11/104941187-IMG_0940r.1910x1000.jpg",
+      "publishedDate": "2018-02-28T07:57:00.000-0800",
+      "source": "CNBC Technology",
+      "categories": [
+        "all",
+        "market",
+        "bitcoin"
+      ],
+      "guid": "https://www.cnbc.com/2018/02/28/struggling-bitcoin-will-double-by-mid-year-wall-streets-tom-lee-says.html"
+    },
+    {
+      "title": "New leader of $6 billion firm looks to podcasts and cryptocurrencies to keep active investing relevant - CNBC Technology",
+      "url": "https://www.cnbc.com/2018/02/27/new-leader-of-6-point-2-billion-dollar-money-management-firm-looks-to-podcasts.html",
+      "description": "At 32, Patrick O\u0026#039;Shaughnessy is becoming CEO of a $6 billion asset management firm.",
+      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/26/105029248-Patrick_OShaughnessy_IMG_0545_150ppi.1910x1000.jpg",
+      "publishedDate": "2018-02-28T03:00:00.000-0800",
+      "source": "CNBC Technology",
+      "categories": [
+        "all",
+        "market",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.cnbc.com/2018/02/27/new-leader-of-6-point-2-billion-dollar-money-management-firm-looks-to-podcasts.html"
+    },
+    {
       "title": "Cisco CEO says global economy will be stronger with the US and China working together - CNBC Technology",
       "url": "https://www.cnbc.com/2018/02/28/cisco-ceo-says-global-economy-will-be-stronger-with-the-us-and-china-working-together.html",
       "description": "Cisco CEO Chuck Robbins calls for collaboration between the world\u0026#039;s economic superpowers.",

@@ -4,6 +4,411 @@
   "description": "This feed has been created using ROME - Java syndication utilities",
   "items": [
     {
+      "title": "Report: Crypto Miners Bought 3 Million GPUs Last Year - bitcoin.com News",
+      "url": "https://news.bitcoin.com/report-crypto-miners-bought-3-million-gpus-last-year/",
+      "description": "\u003cp\u003e\u003cimg width\u003d\"696\" height\u003d\"696\" src\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-768x768.jpg\" class\u003d\"attachment-medium_large size-medium_large wp-post-image\" alt\u003d\"Report: Crypto Miners Bought 3 Million GPUs Last Year\" style\u003d\"float:left; margin:0 15px 15px 0;\" srcset\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-768x768.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-150x150.jpg 150w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-300x300.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-1024x1024.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-696x696.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-1392x1392.jpg 1392w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600-420x420.jpg 420w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600.jpg 1600w\" sizes\u003d\"(max-width: 696px) 100vw, 696px\" /\u003eMore than 3 million graphics cards have been sold to cryptocurrency miners in 2017, with sales reaching $776 million, a new report revealed. According to a major manufacturer, prices of GPUs will continue to increase in 2018, despite expectations of decreasing demand in the mining sector.   Also read: AMD Increases GPU Production to Match [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com/report-crypto-miners-bought-3-million-gpus-last-year/\"\u003eReport: Crypto Miners Bought 3 Million GPUs Last Year\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com\"\u003eBitcoin News\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_744928609_1600.jpg",
+      "publishedDate": "2018-02-28T08:35:46.000-0800",
+      "source": "bitcoin.com News",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://news.bitcoin.com/report-crypto-miners-bought-3-million-gpus-last-year/"
+    },
+    {
+      "title": "Amazon-coin? Most customers would use a cryptocurrency if online retailer creates one: Survey - CNBC Technology",
+      "url": "https://www.cnbc.com/2018/02/28/majority-of-shoppers-are-open-to-amazon-cryptocurrency-survey-shows.html",
+      "description": "More than half of Amazon shoppers would embrace an Amazon-created cryptocurrency to shop on the site, according to a LendEDU survey released Wednesday.",
+      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/10/20/104036234-GettyImages-450831348.1910x1000.jpg",
+      "publishedDate": "2018-02-28T08:23:00.000-0800",
+      "source": "CNBC Technology",
+      "categories": [
+        "all",
+        "market",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.cnbc.com/2018/02/28/majority-of-shoppers-are-open-to-amazon-cryptocurrency-survey-shows.html"
+    },
+    {
+      "title": "No More USD? Marshall Islands Approves Official ‘Sovereign’ Cryptocurrency in 2018 With ICO - CryptoCoins News",
+      "url": "https://www.ccn.com/marshall-islands-plans-official-sovereign-cryptocurrency-2018/",
+      "description": "\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com/marshall-islands-plans-official-sovereign-cryptocurrency-2018/\"\u003eNo More USD? Marshall Islands Approves Official ‘Sovereign’ Cryptocurrency in 2018 With ICO\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com\"\u003eCCN\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe Marshall Islands is set to release its own cryptocurrency called the Sovereign after the Parliament voted to approve an official cryptocurrency as legal tender, a move that could end its reliance on the US Dollar as its official currency. The Republic of Marshall Islands (RMI), a chain of 1,156 volcanic islands and islets in\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com/marshall-islands-plans-official-sovereign-cryptocurrency-2018/\"\u003eNo More USD? Marshall Islands Approves Official ‘Sovereign’ Cryptocurrency in 2018 With ICO\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com\"\u003eCCN\u003c/a\u003e\u003c/p\u003e\n",
+      "imageURL": "https://www.ccn.com/wp-content/uploads/2018/02/Marshall-Islands-flag.jpg",
+      "publishedDate": "2018-02-28T07:32:57.000-0800",
+      "source": "CryptoCoins News",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general",
+        "ico"
+      ],
+      "guid": "https://www.ccn.com/marshall-islands-plans-official-sovereign-cryptocurrency-2018/"
+    },
+    {
+      "title": "Malaysian Central Bank: ID Now Needed For Any Crypto Exchange Transaction - Cointelegraph",
+      "url": "https://cointelegraph.com/news/malaysian-central-bank-id-now-needed-for-any-crypto-exchange-transaction",
+      "description": "\n                \u003cimg src\u003d\"https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZTZhNjk2Y2VmNmFkMGM0MjI2YWNlODIwZjIxYzlhYzMwLmpwZw\u003d\u003d.jpg\"\u003e\u003cp\u003eTrading crypto for fiat or crypto for crypto now needs ID in Malaysia. #NEWS\u003c/p\u003e\n            ",
+      "imageURL": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82YTY5NmNlZjZhZDBjNDIyNmFjZTgyMGYyMWM5YWMzMC5qcGc\u003d.jpg",
+      "publishedDate": "2018-02-28T07:15:09.000-0800",
+      "source": "Cointelegraph",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://cointelegraph.com/news/malaysian-central-bank-id-now-needed-for-any-crypto-exchange-transaction"
+    },
+    {
+      "title": "CFTC Gives Green Light for Employees to Trade Cryptocurrencies - CoinDesk",
+      "url": "https://www.coindesk.com/cftc-gives-green-light-for-employees-to-trade-in-cryptocurrencies/",
+      "description": "The U.S. Commodity Futures Trading Commission has given its staff permission to invest in cryptocurrencies, according to a report.",
+      "imageURL": "https://media.coindesk.com/uploads/2018/02/cftc-1.jpg",
+      "publishedDate": "2018-02-28T06:55:43.000-0800",
+      "source": "CoinDesk",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.coindesk.com/cftc-gives-green-light-for-employees-to-trade-in-cryptocurrencies/"
+    },
+    {
+      "title": "Canadian Cryptocurrency Mining Boom in Full Swing - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/28/canadian-cryptocurrency-mining-boom-full-swing/",
+      "description": "\u003cp\u003eCryptocurrency mining is a very difficult yet potentially profitable business model. Without meeting certain conditions, it is almost possible to break even, let alone make a profit. It seems Canada is slowly becoming a major hub for cryptocurrency mining operations as of right now. The cold climate and cheap electricity make it a very attractive \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/canadian-cryptocurrency-mining-boom-full-swing/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eCanadian Cryptocurrency Mining Boom in Full Swing\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/canadian-cryptocurrency-mining-boom-full-swing/\"\u003eCanadian Cryptocurrency Mining Boom in Full Swing\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2017/07/01160905/shutterstock_651283711.jpg",
+      "publishedDate": "2018-02-28T06:30:32.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/28/canadian-cryptocurrency-mining-boom-full-swing/"
+    },
+    {
+      "title": "Bill Gates Says Crypto Has Caused Deaths in a Fairly Direct Way - bitcoin.com News",
+      "url": "https://news.bitcoin.com/bill-gates-crypto-caused-deaths-fairly-direct-way/",
+      "description": "\u003cp\u003e\u003cimg width\u003d\"696\" height\u003d\"696\" src\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-768x768.jpg\" class\u003d\"attachment-medium_large size-medium_large wp-post-image\" alt\u003d\"Bill Gates: Crypto Caused Deaths in a Fairly Direct Way\" style\u003d\"float:left; margin:0 15px 15px 0;\" srcset\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-768x768.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-150x150.jpg 150w, https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-300x300.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-1024x1024.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-696x696.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-1392x1392.jpg 1392w, https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5-420x420.jpg 420w, https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5.jpg 1600w\" sizes\u003d\"(max-width: 696px) 100vw, 696px\" /\u003eOne of the world’s most affluent persons, Bill Gates, appears to have bought in to the rhetoric of popular media and government law enforcement accounts. Recently, Mr. Gates and his wife submitted to a Reddit Ask-Me-Anything (AMA), and Mr. Gates gave some unusual views on cryptocurrency.   Also read: How To Regain Control From Nanny Zuck [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com/bill-gates-crypto-caused-deaths-fairly-direct-way/\"\u003eBill Gates Says Crypto Has Caused Deaths in a Fairly Direct Way\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com\"\u003eBitcoin News\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://news.bitcoin.com/wp-content/uploads/2018/02/Untitled-design-5.jpg",
+      "publishedDate": "2018-02-28T05:58:00.000-0800",
+      "source": "bitcoin.com News",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://news.bitcoin.com/bill-gates-crypto-caused-deaths-fairly-direct-way/"
+    },
+    {
+      "title": "CFTC Gives Employees Green Light to Trade Cryptocurrencies - CryptoCoins News",
+      "url": "https://www.ccn.com/cftc-gives-employees-green-light-to-trade-cryptocurrencies/",
+      "description": "\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com/cftc-gives-employees-green-light-to-trade-cryptocurrencies/\"\u003eCFTC Gives Employees Green Light to Trade Cryptocurrencies\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com\"\u003eCCN\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe US Commodity Futures Trading Commission (CFTC) has given its employees the green light to trade cryptocurrencies, a decision that came in response to “numerous” inquiries from agency staff. The policy, which Bloomberg reports was announced in a Feb. 5 memo written by CFTC general counsel Daniel Davis, said that because the agency has determined\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com/cftc-gives-employees-green-light-to-trade-cryptocurrencies/\"\u003eCFTC Gives Employees Green Light to Trade Cryptocurrencies\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com\"\u003eCCN\u003c/a\u003e\u003c/p\u003e\n",
+      "imageURL": "https://www.ccn.com/wp-content/uploads/2018/02/Bitcoin-people.jpg",
+      "publishedDate": "2018-02-28T05:54:33.000-0800",
+      "source": "CryptoCoins News",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.ccn.com/cftc-gives-employees-green-light-to-trade-cryptocurrencies/"
+    },
+    {
+      "title": "Will Regulation Spark A New Crypto-Boom? - Coin Speaker",
+      "url": "https://www.coinspeaker.com/2018/02/28/will-regulation-spark-new-crypto-boom/",
+      "publishedDate": "2018-02-28T05:40:42.000-0800",
+      "source": "Coin Speaker",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://www.coinspeaker.com/2018/02/28/will-regulation-spark-new-crypto-boom/"
+    },
+    {
+      "title": "Blockchain-based Streaming Platform Play2Live Successfully Broadcasted World’s First Tournament With Crypto Prize Pool - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/28/blockchain-based-streaming-platform-play2live-successfully-broadcasted-worlds-first-tournament-crypto-prize-pool/",
+      "description": "\u003cp\u003ePlay2Live CryptoMasters was scheduled to release of the 2.0 version of MVP with advanced player and P2P CDN, that was tested during the broadcast of the tournament. Play2Live (P2L), the first full-blown blockchain-based streaming platform for gamers and esports fans successfully hosted and broadcasted the world’s first esport tournament with the main prize –  2 \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/blockchain-based-streaming-platform-play2live-successfully-broadcasted-worlds-first-tournament-crypto-prize-pool/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eBlockchain-based Streaming Platform Play2Live Successfully Broadcasted World’s First Tournament With Crypto Prize Pool\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/blockchain-based-streaming-platform-play2live-successfully-broadcasted-worlds-first-tournament-crypto-prize-pool/\"\u003eBlockchain-based Streaming Platform Play2Live Successfully Broadcasted World’s First Tournament With Crypto Prize Pool\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/28133316/P2l-Cryptomasters-Blue.jpeg",
+      "publishedDate": "2018-02-28T05:35:40.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "blockchain"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/28/blockchain-based-streaming-platform-play2live-successfully-broadcasted-worlds-first-tournament-crypto-prize-pool/"
+    },
+    {
+      "title": "US Justice Department to Focus on Potential Cryptocurrency Regulation - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/28/us-justice-department-focus-potential-cryptocurrency-regulation/",
+      "description": "\u003cp\u003eRegulating cryptocurrencies is not straightforward by any means. Various governments around the world are focusing their attention on achieving this goal. The US Justice Department is currently working on a so-called \u0026#8220;comprehensive strategy\u0026#8221;. It is a bit unclear what this entails exactly. We do know the road ahead will not be easy. The US Justice \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/us-justice-department-focus-potential-cryptocurrency-regulation/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eUS Justice Department to Focus on Potential Cryptocurrency Regulation\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/us-justice-department-focus-potential-cryptocurrency-regulation/\"\u003eUS Justice Department to Focus on Potential Cryptocurrency Regulation\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/28132301/usdoj.jpg",
+      "publishedDate": "2018-02-28T05:30:07.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/28/us-justice-department-focus-potential-cryptocurrency-regulation/"
+    },
+    {
+      "title": "Banking Group SBI Delays Crypto Exchange Launch - CoinDesk",
+      "url": "https://www.coindesk.com/banking-group-sbi-delays-crypto-exchange-launch/",
+      "description": "The launch of Japan\u0027s first bank-backed cryptocurrency exchange has again been postponed as it seeks to strengthen security measures. ",
+      "imageURL": "https://media.coindesk.com/uploads/2018/02/osaka-city.jpg",
+      "publishedDate": "2018-02-28T05:00:34.000-0800",
+      "source": "CoinDesk",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://www.coindesk.com/banking-group-sbi-delays-crypto-exchange-launch/"
+    },
+    {
+      "title": "Cryptocurrency Market Stable at $450 Billion, Bitcoin Price Remains Above $10,500 - CryptoCoins News",
+      "url": "https://www.ccn.com/cryptocurrency-market-stable-at-450-billion-bitcoin-remains-above-10500/",
+      "description": "\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com/cryptocurrency-market-stable-at-450-billion-bitcoin-remains-above-10500/\"\u003eCryptocurrency Market Stable at $450 Billion, Bitcoin Price Remains Above $10,500\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com\"\u003eCCN\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eOver the past 24 hours, the cryptocurrency market has remained relatively stable in the $450 billion region, after recording a $30 billion increase in market valuation on February 27. Bitcoin has remained above the $10,500 mark, despite a major sell volume that led the cryptocurrency to decline from $11,000 to $10,300. Bitcoin and Ethereum Earlier\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com/cryptocurrency-market-stable-at-450-billion-bitcoin-remains-above-10500/\"\u003eCryptocurrency Market Stable at $450 Billion, Bitcoin Price Remains Above $10,500\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.ccn.com\"\u003eCCN\u003c/a\u003e\u003c/p\u003e\n",
+      "imageURL": "https://www.ccn.com/wp-content/uploads/2017/10/Boat-steering.jpg",
+      "publishedDate": "2018-02-28T04:55:10.000-0800",
+      "source": "CryptoCoins News",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general",
+        "bitcoin"
+      ],
+      "guid": "https://www.ccn.com/cryptocurrency-market-stable-at-450-billion-bitcoin-remains-above-10500/"
+    },
+    {
+      "title": "J.P Morgan Sees Crypto As ‘Competition’ And ‘Risk’ To Its Business In SEC Annual Report - Cointelegraph",
+      "url": "https://cointelegraph.com/news/jp-morgan-sees-crypto-as-competition-and-risk-to-its-business-in-sec-annual-report",
+      "description": "\n                \u003cimg src\u003d\"https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZWU0MGFmMDk5MDRmY2FiOGFiM2RlYjA4YzI1ZTg3YTY2LmpwZw\u003d\u003d.jpg\"\u003e\u003cp\u003eJ.P. Morgan sees cryptocurrency as a potential threat to its business, according to its annual SEC report. #NEWS\u003c/p\u003e\n            ",
+      "imageURL": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lNDBhZjA5OTA0ZmNhYjhhYjNkZWIwOGMyNWU4N2E2Ni5qcGc\u003d.jpg",
+      "publishedDate": "2018-02-28T04:32:56.000-0800",
+      "source": "Cointelegraph",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://cointelegraph.com/news/jp-morgan-sees-crypto-as-competition-and-risk-to-its-business-in-sec-annual-report"
+    },
+    {
+      "title": "Poland Pays Stars to Produce a Cryptocurrency Crash Video - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/28/poland-pays-stars-produce-cryptocurrency-crash-video/",
+      "description": "\u003cp\u003eWith cryptocurrency being all the rage these days, more and more authorities are looking for ways to warn consumers of the potential risks associated with investing in and trading these digital coins. However, in what may be the most creative way that an authority has attempted to warn consumers of the dangers associated with cryptocurrencies, \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/poland-pays-stars-produce-cryptocurrency-crash-video/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003ePoland Pays Stars to Produce a Cryptocurrency Crash Video\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/poland-pays-stars-produce-cryptocurrency-crash-video/\"\u003ePoland Pays Stars to Produce a Cryptocurrency Crash Video\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/06033949/btccrash2.jpg",
+      "publishedDate": "2018-02-28T04:17:07.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/28/poland-pays-stars-produce-cryptocurrency-crash-video/"
+    },
+    {
+      "title": "WIZZLE.io to Make Cryptocurrency Globally Accessible to Everyone with ICO Launch - Coin Speaker",
+      "url": "https://www.coinspeaker.com/2018/02/28/wizzle-io-make-cryptocurrency-globally-accessible-everyone-ico-launch/",
+      "publishedDate": "2018-02-28T04:13:41.000-0800",
+      "source": "Coin Speaker",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general",
+        "ico"
+      ],
+      "guid": "https://www.coinspeaker.com/2018/02/28/wizzle-io-make-cryptocurrency-globally-accessible-everyone-ico-launch/"
+    },
+    {
+      "title": "Marshall Islands Plans “Initial Currency Offering” For National Cryptocurrency - Coinjournal",
+      "url": "http://feedproxy.google.com/~r/Coinjournal/~3/Agyxpaq2TjY/",
+      "description": "\u003cp\u003eThe Marshall Islands is the latest country looking to issue its very own cryptocurrency. Called \u0026#8220;the sovereign\u0026#8221; (SOV), the cryptocurrency will circulate as legal tender alongside the USD and will be distributed to the public via an \u0026#8220;initial currency offering,\u0026#8221; the President of the Republic of the Marshall Islands (RMI), Dr. Hilda C. Heine, announced [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThis post \u003ca rel\u003d\"nofollow\" href\u003d\"https://coinjournal.net/marshall-islands-plans-initial-currency-offering-national-cryptocurrency/\"\u003eMarshall Islands Plans \u0026#8220;Initial Currency Offering\u0026#8221; For National Cryptocurrency\u003c/a\u003e first appeared on \u003ca rel\u003d\"nofollow\" href\u003d\"https://coinjournal.net\"\u003eCoinjournal\u003c/a\u003e.\u003c/p\u003e\u003cimg src\u003d\"http://feeds.feedburner.com/~r/Coinjournal/~4/Agyxpaq2TjY\" height\u003d\"1\" width\u003d\"1\" alt\u003d\"\"/\u003e",
+      "imageURL": "https://coinjournal.net/wp-content/uploads/2018/02/Marshall-Islands-Issues-Its-Own-Cryptocurrency.jpg",
+      "publishedDate": "2018-02-28T04:05:57.000-0800",
+      "source": "Coinjournal",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general"
+      ],
+      "guid": "http://feedproxy.google.com/~r/Coinjournal/~3/Agyxpaq2TjY/"
+    },
+    {
+      "title": "New Ethereum and Universa-Based Cryptocollection Game UnicornGo Is Almost Here - Coin Speaker",
+      "url": "https://www.coinspeaker.com/2018/02/28/new-ethereum-universa-based-cryptocollection-game-unicorngo-almost/",
+      "imageURL": "https://www.coinspeaker.com/wp-content/uploads/2017/11/unicorngo.jpg",
+      "publishedDate": "2018-02-28T04:05:12.000-0800",
+      "source": "Coin Speaker",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "ethereum",
+        "ico",
+        "ethereum"
+      ],
+      "guid": "https://www.coinspeaker.com/2018/02/28/new-ethereum-universa-based-cryptocollection-game-unicorngo-almost/"
+    },
+    {
+      "title": "Class Actions Mount as Coincheck Lingers Over Crypto Heist Refunds - CoinDesk",
+      "url": "https://www.coindesk.com/class-actions-mount-as-coincheck-lingers-over-crypto-heist-refunds/",
+      "description": "Japanese exchange Coincheck is facing another class action lawsuit demanding cryptocurrency refunds and compensation for hack losses. ",
+      "imageURL": "https://media.coindesk.com/uploads/2018/02/japanese-yen.jpg",
+      "publishedDate": "2018-02-28T04:00:54.000-0800",
+      "source": "CoinDesk",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://www.coindesk.com/class-actions-mount-as-coincheck-lingers-over-crypto-heist-refunds/"
+    },
+    {
+      "title": "Swiss Stock Exchange Chairman Advocates National Cryptocurrency - bitcoin.com News",
+      "url": "https://news.bitcoin.com/swiss-stock-exchange-chairman-advocates-national-cryptocurrency/",
+      "description": "\u003cp\u003e\u003cimg width\u003d\"696\" height\u003d\"696\" src\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-768x768.jpg\" class\u003d\"attachment-medium_large size-medium_large wp-post-image\" alt\u003d\"\" style\u003d\"float:left; margin:0 15px 15px 0;\" srcset\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-768x768.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-150x150.jpg 150w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-300x300.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-1024x1024.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-696x696.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-1392x1392.jpg 1392w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415-420x420.jpg 420w, https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415.jpg 1600w\" sizes\u003d\"(max-width: 696px) 100vw, 696px\" /\u003eThe chairman of Switzerland’s stock exchange, Romeo Lacher, has spoken in favor of developing a Swiss national cryptocurrency. Mr. Lacher suggested that the proposed “e-franc” would provide a boost to the Swiss economy, in addition to comprising a payment system offering benefits over traditional systems. Also Read: Chinese Entrepreneur Warns Against Mining and ICO Bans  Swiss [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com/swiss-stock-exchange-chairman-advocates-national-cryptocurrency/\"\u003eSwiss Stock Exchange Chairman Advocates National Cryptocurrency\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com\"\u003eBitcoin News\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://news.bitcoin.com/wp-content/uploads/2018/02/shutterstock_605419415.jpg",
+      "publishedDate": "2018-02-28T03:55:03.000-0800",
+      "source": "bitcoin.com News",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general"
+      ],
+      "guid": "https://news.bitcoin.com/swiss-stock-exchange-chairman-advocates-national-cryptocurrency/"
+    },
+    {
+      "title": "Embattled Rabobank Unveils ‘Cryptocurrency Wallet’ in a Major U-Turn - bitcoinist.com",
+      "url": "https://bitcoinist.com/rabobank-unveils-cryptocurrency-wallet/",
+      "description": "\u003cp\u003eThe Dutch bank, which was fined $369 million for money laundering after calling Bitcoin “risky,” now plans to offer a cryptocurrency wallet. Rabobank: Store You Crypto With \u0026#8216;Trusted\u0026#8217; Bank Hosts In what would represent a curious U-turn in its perspective on Bitcoin, Rabobank has launched a dedicated website for a project called “Rabobit.” Part of its internal kickstarter program dubbed \u0026#8220;Moonshot,\u0026#8221; the “integrated cryptocurrency wallet” offers customers the chance to “store your cryptocurrencies in a\u003c/p\u003e\n\u003cdiv class\u003d\"excerpt-read-more\"\u003e\u003ca class\u003d\"read-more\" href\u003d\"https://bitcoinist.com/rabobank-unveils-cryptocurrency-wallet/\"\u003eRead More\u003c/a\u003e\u003c/div\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://bitcoinist.com/rabobank-unveils-cryptocurrency-wallet/\"\u003eEmbattled Rabobank Unveils \u0026#8216;Cryptocurrency Wallet\u0026#8217; in a Major U-Turn\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://bitcoinist.com\"\u003eBitcoinist.com\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://bitcoinist.com/wp-content/uploads/2018/02/shutterstock_25089397-e1519816432170.jpg",
+      "publishedDate": "2018-02-28T03:00:48.000-0800",
+      "source": "bitcoinist.com",
+      "categories": [
+        "all",
+        "vertical",
+        "general",
+        "general"
+      ],
+      "guid": "https://bitcoinist.com/rabobank-unveils-cryptocurrency-wallet/"
+    },
+    {
+      "title": "New leader of $6 billion firm looks to podcasts and cryptocurrencies to keep active investing relevant - CNBC Technology",
+      "url": "https://www.cnbc.com/2018/02/27/new-leader-of-6-point-2-billion-dollar-money-management-firm-looks-to-podcasts.html",
+      "description": "At 32, Patrick O\u0026#039;Shaughnessy is becoming CEO of a $6 billion asset management firm.",
+      "imageURL": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/26/105029248-Patrick_OShaughnessy_IMG_0545_150ppi.1910x1000.jpg",
+      "publishedDate": "2018-02-28T03:00:00.000-0800",
+      "source": "CNBC Technology",
+      "categories": [
+        "all",
+        "market",
+        "general",
+        "general"
+      ],
+      "guid": "https://www.cnbc.com/2018/02/27/new-leader-of-6-point-2-billion-dollar-money-management-firm-looks-to-podcasts.html"
+    },
+    {
+      "title": "Scammers Are Ruining Crypto Twitter and Twitter Is to Blame - bitcoin.com News",
+      "url": "https://news.bitcoin.com/scammers-are-ruining-crypto-twitter-and-twitter-is-to-blame/",
+      "description": "\u003cp\u003e\u003cimg width\u003d\"696\" height\u003d\"696\" src\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-768x768.jpg\" class\u003d\"attachment-medium_large size-medium_large wp-post-image\" alt\u003d\"Scammers Are Ruining Crypto Twitter and Twitter Is to Blame\" style\u003d\"float:left; margin:0 15px 15px 0;\" srcset\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-768x768.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-150x150.jpg 150w, https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-300x300.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-1024x1024.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-696x696.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-1392x1392.jpg 1392w, https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers-420x420.jpg 420w, https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers.jpg 1600w\" sizes\u003d\"(max-width: 696px) 100vw, 696px\" /\u003eYou’ve heard of the scheme, seen the tweets, and been smart enough not to send cryptocurrency in the promise of receiving more back. The Twitter crypto scam, in which fraudsters impersonate the accounts of exchanges and influencers, is as simple as it is pernicious. While the odds of anyone falling for these scams is remote, [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com/scammers-are-ruining-crypto-twitter-and-twitter-is-to-blame/\"\u003eScammers Are Ruining Crypto Twitter and Twitter Is to Blame\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com\"\u003eBitcoin News\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://news.bitcoin.com/wp-content/uploads/2018/02/twitter-scammers.jpg",
+      "publishedDate": "2018-02-28T02:10:32.000-0800",
+      "source": "bitcoin.com News",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://news.bitcoin.com/scammers-are-ruining-crypto-twitter-and-twitter-is-to-blame/"
+    },
+    {
+      "title": "The Crypto Miner Revolutionizing the Sector - News BTC",
+      "url": "https://www.newsbtc.com/2018/02/28/crypto-miner-revolutionizing-sector/",
+      "description": "\u003cp\u003eThe cryptocurrency space is on fire and everyone is looking to get a piece, but sifting through the madness can be a challenge. Cryptocurrencies have officially returned to a full-blown-frenzy. Everyone is trying to get a piece of the crypto-pie. Corporate coins, government coins, and even commodity coins are flooding the market on every level, \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/crypto-miner-revolutionizing-sector/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eThe Crypto Miner Revolutionizing the Sector\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/crypto-miner-revolutionizing-sector/\"\u003eThe Crypto Miner Revolutionizing the Sector\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/26183635/hashchain.png",
+      "publishedDate": "2018-02-28T02:00:18.000-0800",
+      "source": "News BTC",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://www.newsbtc.com/2018/02/28/crypto-miner-revolutionizing-sector/"
+    },
+    {
+      "title": "5 Things to Know About Crypto, Courtesy of Rapper Nipsey Hussle - bitcoinist.com",
+      "url": "https://bitcoinist.com/5-things-to-know-about-crypto-courtesy-of-rapper-nipsey-hussle/",
+      "description": "\u003cp\u003e50 Cent may not be a Bitcoin millionaire after all, but Ermias Asghedom — better known by his rap moniker Nipsey Hussle — certainly knows what\u0026#8217;s good with cryptocurrency and blockchain technology. The rapper from Los Angeles invested in Bitcoin back in 2013 and owns an ownership stake in Amsterdam-based crypto company Follow Coin. Last month, Asghedom shared his wisdom with XXL. Here\u0026#8217;s what you need to know. Mainstream Adoption Is on the Way If you think\u003c/p\u003e\n\u003cdiv class\u003d\"excerpt-read-more\"\u003e\u003ca class\u003d\"read-more\" href\u003d\"https://bitcoinist.com/5-things-to-know-about-crypto-courtesy-of-rapper-nipsey-hussle/\"\u003eRead More\u003c/a\u003e\u003c/div\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://bitcoinist.com/5-things-to-know-about-crypto-courtesy-of-rapper-nipsey-hussle/\"\u003e5 Things to Know About Crypto, Courtesy of Rapper Nipsey Hussle\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://bitcoinist.com\"\u003eBitcoinist.com\u003c/a\u003e.\u003c/p\u003e\n",
+      "imageURL": "https://bitcoinist.com/wp-content/uploads/2018/02/wiki-nipsey-hussle-5-things-about-crypto.jpg",
+      "publishedDate": "2018-02-28T01:00:30.000-0800",
+      "source": "bitcoinist.com",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://bitcoinist.com/5-things-to-know-about-crypto-courtesy-of-rapper-nipsey-hussle/"
+    },
+    {
+      "title": "Will Fundamentals Eventually Matter in the Crypto Market? - Coin Speaker",
+      "url": "https://www.coinspeaker.com/2018/02/28/will-fundamentals-eventually-matter-crypto-market/",
+      "imageURL": "https://www.coinspeaker.com/wp-content/uploads/2017/11/investing.jpg",
+      "publishedDate": "2018-02-28T00:55:49.000-0800",
+      "source": "Coin Speaker",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://www.coinspeaker.com/2018/02/28/will-fundamentals-eventually-matter-crypto-market/"
+    },
+    {
+      "title": "Twitter Scammers Use Verified Accounts to Trick Crypto Holders - CoinDesk",
+      "url": "https://www.coindesk.com/twitter-scammers-use-verified-accounts-trick-crypto-holders/",
+      "description": "Scammers hoping to steal cryptocurrency are hacking verified Twitter accounts to swindle users. ",
+      "imageURL": "https://media.coindesk.com/uploads/2018/02/twitter-login-e1519757617104.jpg",
+      "publishedDate": "2018-02-27T23:00:46.000-0800",
+      "source": "CoinDesk",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://www.coindesk.com/twitter-scammers-use-verified-accounts-trick-crypto-holders/"
+    },
+    {
+      "title": "Bill Gates Attacks Cryptos Calling Them ‘Super Risky’ on Reddit AMA, Draws Twitter Ire - Coin Speaker",
+      "url": "https://www.coinspeaker.com/2018/02/28/bill-gates-bitcoin-comments-during-reddit-ama-draw-twitter-anger/",
+      "imageURL": "https://www.coinspeaker.com/wp-content/uploads/2017/11/bill-gates-cryptos.jpg",
+      "publishedDate": "2018-02-27T22:38:33.000-0800",
+      "source": "Coin Speaker",
+      "categories": [
+        "all",
+        "vertical",
+        "general"
+      ],
+      "guid": "https://www.coinspeaker.com/2018/02/28/bill-gates-bitcoin-comments-during-reddit-ama-draw-twitter-anger/"
+    },
+    {
       "title": "Bill Gates’ Critical Comments on Crypto Causes Backlash - News BTC",
       "url": "https://www.newsbtc.com/2018/02/28/bill-gates-contradictory-comments-not-turnaround-cryptocurrency/",
       "description": "\u003cp\u003eBill Gates made provocative statements in an \u0026#8216;Ask Me Anything\u0026#8217; on Reddit Tuesday that have garnered some serious backlash from the crypto community. The founder and former CEO of Microsoft, and the richest man in the world for 18 years before semi-retiring to head the Bill and Melinda Gates Foundation, had some negative things to say \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/bill-gates-contradictory-comments-not-turnaround-cryptocurrency/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eBill Gates\u0026#8217; Critical Comments on Crypto Causes Backlash\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/bill-gates-contradictory-comments-not-turnaround-cryptocurrency/\"\u003eBill Gates\u0026#8217; Critical Comments on Crypto Causes Backlash\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
