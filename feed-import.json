@@ -62,7 +62,7 @@
     "url": "https://www.nytimes.com/2018/02/28/technology/personaltech/keeping-communications-secure-mexico.html?partner\u003drss\u0026emc\u003drss",
     "description": "Our Mexico bureau chief, Azam Ahmed, uses various strategies to keep communications safe while reporting, including the low-tech tactic of in-person meetings.",
     "imageURL": "https://static01.nyt.com/images/2018/02/28/business/29TECHUSING-1/29TECHUSING-1-facebookJumbo.jpg",
-    "publishedDate": "2018-02-28T20:06:12.000-0800",
+    "publishedDate": "2018-02-28T21:41:12.000-0800",
     "source": "NY Time Technology",
     "categories": [
       "all",
@@ -100,6 +100,34 @@
       "ico"
     ],
     "guid": "https://www.nytimes.com/2018/02/23/technology/dropbox-files-for-ipo-and-other-unicorns-are-watching.html?partner\u003drss\u0026emc\u003drss"
+  },
+  {
+    "title": "SEC ICO Probe Underway, But Stories Conflict on Extent of Sweep",
+    "url": "https://www.coindesk.com/sec-ico-probe-underway-stories-conflict-extent-sweep/",
+    "description": "The Securities and Exchange Commission has been \"shotgunning\" subpoenas to token sellers, advisors, investors and exchanges. What will come of it all?",
+    "imageURL": "https://media.coindesk.com/uploads/2018/03/shutterstock_765574717.jpg",
+    "publishedDate": "2018-02-28T19:45:17.000-0800",
+    "source": "CoinDesk",
+    "categories": [
+      "all",
+      "vertical",
+      "ico"
+    ],
+    "guid": "https://www.coindesk.com/sec-ico-probe-underway-stories-conflict-extent-sweep/"
+  },
+  {
+    "title": "China\u0027s Police Expand Crypto Monitoring Overseas",
+    "url": "https://www.coindesk.com/chinese-police-extend-crypto-exchange-monitoring-overseas/",
+    "description": "China\u0027s police force isn\u0027t just focusing on domestic crypto activities, they\u0027re eyeing overseas exchange platforms as well, according to reports.",
+    "imageURL": "https://media.coindesk.com/uploads/2018/03/china-police.jpg",
+    "publishedDate": "2018-02-28T19:15:37.000-0800",
+    "source": "CoinDesk",
+    "categories": [
+      "all",
+      "vertical",
+      "general"
+    ],
+    "guid": "https://www.coindesk.com/chinese-police-extend-crypto-exchange-monitoring-overseas/"
   },
   {
     "title": "AriseBank ICO Fraud Case May Ensnare Additional Parties",
@@ -298,7 +326,7 @@
     "guid": "https://www.coindesk.com/bitcoin-brushes-11k-as-bull-case-strengthens/"
   },
   {
-    "title": "Circle X Exchange Will Be More Than Another Coinbase",
+    "title": "What is Circle X? Crypto Exchange to Challenge More Than Coinbase",
     "url": "https://www.coindesk.com/circle-x-crypto-exchange-will-coinbase-challenger/",
     "description": "Circle\u0027s big plans for crypto exchange Poloniex after acquisition include bringing cryptocurrencies and tokens of all kinds under one roof.",
     "imageURL": "https://media.coindesk.com/uploads/2018/02/Screen-Shot-2018-02-27-at-3.38.04-PM.png",
@@ -307,6 +335,7 @@
     "categories": [
       "all",
       "vertical",
+      "general",
       "exchange"
     ],
     "guid": "https://www.coindesk.com/circle-x-crypto-exchange-will-coinbase-challenger/"
@@ -326,7 +355,7 @@
     "guid": "https://www.coindesk.com/twitter-scammers-use-verified-accounts-trick-crypto-holders/"
   },
   {
-    "title": "Fork Refund? Developer Appeals Ethereum for Millions",
+    "title": "$35 Million Refund? Developer Appeals to Ethereum for Hack Reversal",
     "url": "https://www.coindesk.com/35-million-refund-developer-appeals-ethereum-hard-fork-hack-reversal/",
     "description": "An early ethereum developer is speaking out about why he feels a platform-wide software upgrade should be used to help him recover lost funds.",
     "imageURL": "https://media.coindesk.com/uploads/2017/12/tether.jpg",
@@ -353,34 +382,6 @@
       "general"
     ],
     "guid": "https://www.coindesk.com/customer-id-now-required-for-crypto-exchange-purchases-in-malaysia/"
-  },
-  {
-    "title": "Chinese Universities Are Pursuing Blockchain Patents",
-    "url": "https://www.coindesk.com/chinese-universities-pursuing-blockchain-patents/",
-    "description": "Universities in China are joining the country\u0027s private sector in an effort to patent blockchain solutions, new filings reveal.",
-    "imageURL": "https://media.coindesk.com/uploads/2018/02/shutterstock_794484766.jpg",
-    "publishedDate": "2018-02-27T17:15:34.000-0800",
-    "source": "CoinDesk",
-    "categories": [
-      "all",
-      "vertical",
-      "blockchain"
-    ],
-    "guid": "https://www.coindesk.com/chinese-universities-pursuing-blockchain-patents/"
-  },
-  {
-    "title": "Bill Gates\u0027 \u0027Nonsense\u0027 Crypto Comments Draw Twitter Ire",
-    "url": "https://www.coindesk.com/bill-gates-nonsense-crypto-comments-draw-twitter-ire/",
-    "description": "Billionaire philanthropist Bill Gates claimed cryptocurrency \"has caused deaths in a fairly direct way.\" The crypto community found that very amusing.",
-    "imageURL": "https://media.coindesk.com/uploads/2018/02/bill-gates3.jpg",
-    "publishedDate": "2018-02-27T15:25:31.000-0800",
-    "source": "CoinDesk",
-    "categories": [
-      "all",
-      "vertical",
-      "general"
-    ],
-    "guid": "https://www.coindesk.com/bill-gates-nonsense-crypto-comments-draw-twitter-ire/"
   },
   {
     "title": "Rabobank Unveils Cryptocurrency Wallet",
@@ -971,6 +972,20 @@
     "guid": "https://cointelegraph.com/news/crypto-vc-firm-digital-currency-group-invests-114-mln-in-pro-crypto-silvergate-bank"
   },
   {
+    "title": "Japanese Electricity Company Uses Excess Solar Power for Crypto Mining",
+    "url": "https://news.bitcoin.com/japanese-electricity-company-uses-excess-solar-power-crypto-mining/",
+    "description": "\u003cp\u003e\u003cimg width\u003d\"696\" height\u003d\"696\" src\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-768x768.jpg\" class\u003d\"attachment-medium_large size-medium_large wp-post-image\" alt\u003d\"Japanese Electricity Company Uses Excess Solar Power for Crypto Mining\" style\u003d\"float:left; margin:0 15px 15px 0;\" srcset\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-768x768.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-150x150.jpg 150w, https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-300x300.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-1024x1024.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-696x696.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-1392x1392.jpg 1392w, https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan-420x420.jpg 420w, https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan.jpg 1600w\" sizes\u003d\"(max-width: 696px) 100vw, 696px\" /\u003eJapan’s Kumamoto-Energy, a local power producer and supplier from Kumamoto City, has revealed that it recently began using solar power for mining cryptocurrencies. This is another example of how, contrary to environmental hysteria by mainstream media sources, cryptocurrency mining can enable a greener future using renewable energy. Also Read: British Man in Amsterdam Allegedly Laundered [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com/japanese-electricity-company-uses-excess-solar-power-crypto-mining/\"\u003eJapanese Electricity Company Uses Excess Solar Power for Crypto Mining\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com\"\u003eBitcoin News\u003c/a\u003e.\u003c/p\u003e\n",
+    "imageURL": "https://news.bitcoin.com/wp-content/uploads/2018/02/Solar-Japan.jpg",
+    "publishedDate": "2018-02-28T20:52:37.000-0800",
+    "source": "bitcoin.com News",
+    "categories": [
+      "all",
+      "vertical",
+      "general"
+    ],
+    "guid": "https://news.bitcoin.com/japanese-electricity-company-uses-excess-solar-power-crypto-mining/"
+  },
+  {
     "title": "More Infrastructure Support Joins the Bitcoin Cash Ecosystem",
     "url": "https://news.bitcoin.com/more-infrastructure-support-joins-the-bitcoin-cash-ecosystem/",
     "description": "\u003cp\u003e\u003cimg width\u003d\"696\" height\u003d\"696\" src\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-768x768.jpg\" class\u003d\"attachment-medium_large size-medium_large wp-post-image\" alt\u003d\"More Infrastructure Support Joins the Bitcoin Cash Ecosystem\" style\u003d\"float:left; margin:0 15px 15px 0;\" srcset\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-768x768.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-150x150.jpg 150w, https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-300x300.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-1024x1024.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-696x696.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-1392x1392.jpg 1392w, https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash-420x420.jpg 420w, https://news.bitcoin.com/wp-content/uploads/2018/02/CoinCash.jpg 1600w\" sizes\u003d\"(max-width: 696px) 100vw, 696px\" /\u003eThis week the Bitcoin Cash network has gained more infrastructure and support from a variety of crypto-based businesses. Additionally, the digital asset has seen increased trade volume, and its price has been holding steady after the big dip that affected the entire cryptocurrency market ecosystem. Also Read: Las Vegas Strippers Accept Bitcoin via QR Tattoos Bitcoin [\u0026#8230;]\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com/more-infrastructure-support-joins-the-bitcoin-cash-ecosystem/\"\u003eMore Infrastructure Support Joins the Bitcoin Cash Ecosystem\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com\"\u003eBitcoin News\u003c/a\u003e.\u003c/p\u003e\n",
@@ -1097,20 +1112,6 @@
       "bitcoin"
     ],
     "guid": "https://news.bitcoin.com/bittrex-stance-bitcoin-private-angers-zclassic-bagholders/"
-  },
-  {
-    "title": "PR: Brahma OS Is the Decentralized Value Operating System Based on Revolutionary Blockchain Technology",
-    "url": "https://news.bitcoin.com/pr-brahma-os-is-the-decentralized-value-operating-system-based-on-revolutionary-blockchain-technology/",
-    "description": "\u003cp\u003e\u003cimg width\u003d\"600\" height\u003d\"459\" src\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/BrahmaOS-with-logo-vv-light.jpg\" class\u003d\"attachment-medium_large size-medium_large wp-post-image\" alt\u003d\"Brahma OS - Decentralized Value Operating System\" style\u003d\"float:left; margin:0 15px 15px 0;\" srcset\u003d\"https://news.bitcoin.com/wp-content/uploads/2018/02/BrahmaOS-with-logo-vv-light.jpg 600w, https://news.bitcoin.com/wp-content/uploads/2018/02/BrahmaOS-with-logo-vv-light-300x230.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/BrahmaOS-with-logo-vv-light-80x60.jpg 80w, https://news.bitcoin.com/wp-content/uploads/2018/02/BrahmaOS-with-logo-vv-light-549x420.jpg 549w\" sizes\u003d\"(max-width: 600px) 100vw, 600px\" /\u003eSINGAPORE - The advent of blockchain technology is provoking a revolution of the Internet of Value. In the blockchain world, Ethereum, NEO, EOS and other blockchain-based computing platforms exploit land to run applications. On this land, a variety of application chain of different functions spring up, for example: Rebo network for cross-border payment, CVC with the function of authentication and Distributed File System IPFS. However, in the world of the blockchain, there is a lack of infrastructure with multiple functions which offer a variety of decentralized services. Brahma OS aims to fill that void.\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com/pr-brahma-os-is-the-decentralized-value-operating-system-based-on-revolutionary-blockchain-technology/\"\u003ePR: Brahma OS Is the Decentralized Value Operating System Based on Revolutionary Blockchain Technology\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://news.bitcoin.com\"\u003eBitcoin News\u003c/a\u003e.\u003c/p\u003e\n",
-    "imageURL": "https://news.bitcoin.com/wp-content/uploads/2018/02/BrahmaOS-with-logo-vv-light.jpg",
-    "publishedDate": "2018-02-28T02:30:55.000-0800",
-    "source": "bitcoin.com News",
-    "categories": [
-      "all",
-      "vertical",
-      "blockchain"
-    ],
-    "guid": "https://news.bitcoin.com/pr-brahma-os-is-the-decentralized-value-operating-system-based-on-revolutionary-blockchain-technology/"
   },
   {
     "title": "Etheremon Game Update: Exclusive Co-Founder Interview",
@@ -1644,6 +1645,64 @@
     "guid": "https://www.ccn.com/cryptocurrency-market-stable-at-450-billion-bitcoin-remains-above-10500/"
   },
   {
+    "title": "China Targets Crypto Chat Groups Ahead of Possible Further Regulation",
+    "url": "https://www.newsbtc.com/2018/03/01/china-targets-chat-groups-ahead-crypto-regulation/",
+    "description": "\u003cp\u003eIt has been a while since any positive news came out of China regarding cryptocurrencies. That trend is likely to continue as the People’s Republic ramps up its censorship machine to include cryptocurrency chat groups and messenger services. This zero tolerance policy is also expanding to international crypto trading activities by Chinese citizens.  It has \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/03/01/china-targets-chat-groups-ahead-crypto-regulation/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eChina Targets Crypto Chat Groups Ahead of Possible Further Regulation\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/03/01/china-targets-chat-groups-ahead-crypto-regulation/\"\u003eChina Targets Crypto Chat Groups Ahead of Possible Further Regulation\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+    "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/03/01045120/china-1.jpg",
+    "publishedDate": "2018-02-28T22:00:50.000-0800",
+    "source": "News BTC",
+    "categories": [
+      "all",
+      "vertical",
+      "general"
+    ],
+    "guid": "https://www.newsbtc.com/2018/03/01/china-targets-chat-groups-ahead-crypto-regulation/"
+  },
+  {
+    "title": "Altcoin Analysis: NEO, EOS, LTC, IOTA and Lumens",
+    "url": "https://www.newsbtc.com/2018/03/01/altcoin-analysis-neo-eos-ltc-iota-lumens-3/",
+    "description": "\u003cp\u003eWhat is visible today is usually what to expect following moves as February 26 price action. There we saw a couple of coins breaking key resistant levels and some like EOS bouncing off break out lines signaling a new wave of buyers and a definite shift of momentum. While this remains valid as long as \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/03/01/altcoin-analysis-neo-eos-ltc-iota-lumens-3/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eAltcoin Analysis: NEO, EOS, LTC, IOTA and Lumens\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/03/01/altcoin-analysis-neo-eos-ltc-iota-lumens-3/\"\u003eAltcoin Analysis: NEO, EOS, LTC, IOTA and Lumens\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+    "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/03/01052637/NEOUSD-Daily-Chart-01.03.2018.png",
+    "publishedDate": "2018-02-28T21:36:00.000-0800",
+    "source": "News BTC",
+    "categories": [
+      "all",
+      "vertical",
+      "altcoin",
+      "litecoin"
+    ],
+    "guid": "https://www.newsbtc.com/2018/03/01/altcoin-analysis-neo-eos-ltc-iota-lumens-3/"
+  },
+  {
+    "title": "SEC Subpoenas Crypto Companies to Route Out Fraud",
+    "url": "https://www.newsbtc.com/2018/03/01/sec-subpoenas-crypto-industry-route-fraud/",
+    "description": "\u003cp\u003eThe Securities and Exchange Commission papered cryptocurrency and blockchain based technology companies with subpoenas and demands for information yesterday in a widespread effort to control fundraising according to The Wall Street Journal. The Tip of the Iceberg There have been warning shots and talks of the coming regulations for a while but this seems like the first \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/03/01/sec-subpoenas-crypto-industry-route-fraud/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eSEC Subpoenas Crypto Companies to Route Out Fraud\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/03/01/sec-subpoenas-crypto-industry-route-fraud/\"\u003eSEC Subpoenas Crypto Companies to Route Out Fraud\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+    "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/06091439/sec.jpg",
+    "publishedDate": "2018-02-28T21:00:09.000-0800",
+    "source": "News BTC",
+    "categories": [
+      "all",
+      "vertical",
+      "general"
+    ],
+    "guid": "https://www.newsbtc.com/2018/03/01/sec-subpoenas-crypto-industry-route-fraud/"
+  },
+  {
+    "title": "Ethereum Price Technical Analysis – ETH/USD Remains at Risk",
+    "url": "https://www.newsbtc.com/2018/03/01/ethereum-price-technical-analysis-eth-usd-remains-risk/",
+    "description": "\u003cp\u003eKey Highlights ETH price failed to move higher and it traded below the $862 support against the US Dollar. There is a connecting bearish trend line forming with resistance at $865 on the hourly chart of ETH/USD (data feed via SimpleFX). The pair may correct a few points in the short term, but it could \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/03/01/ethereum-price-technical-analysis-eth-usd-remains-risk/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eEthereum Price Technical Analysis – ETH/USD Remains at Risk\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/03/01/ethereum-price-technical-analysis-eth-usd-remains-risk/\"\u003eEthereum Price Technical Analysis – ETH/USD Remains at Risk\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
+    "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/03/01031526/Ethereum.png",
+    "publishedDate": "2018-02-28T21:00:00.000-0800",
+    "source": "News BTC",
+    "categories": [
+      "all",
+      "vertical",
+      "ethereum",
+      "ethereum"
+    ],
+    "guid": "https://www.newsbtc.com/2018/03/01/ethereum-price-technical-analysis-eth-usd-remains-risk/"
+  },
+  {
     "title": "Bitcoin Price Technical Analysis for 03/01/2018 – Another Area of Interest",
     "url": "https://www.newsbtc.com/2018/03/01/bitcoin-price-technical-analysis-03-01-2018-another-area-interest/",
     "description": "\u003cp\u003eBitcoin Price Key Highlights Bitcoin price is consolidating inside a symmetrical triangle as it formed lower highs and higher lows. A bounce could be due as the triangle support lines up with a longer-term area of interest around $10,000. Technical indicators are showing mixed signals, though. Bitcoin price has formed a symmetrical triangle pattern and \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/03/01/bitcoin-price-technical-analysis-03-01-2018-another-area-interest/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eBitcoin Price Technical Analysis for 03/01/2018 – Another Area of Interest\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/03/01/bitcoin-price-technical-analysis-03-01-2018-another-area-interest/\"\u003eBitcoin Price Technical Analysis for 03/01/2018 – Another Area of Interest\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
@@ -1732,62 +1791,6 @@
       "blockchain"
     ],
     "guid": "https://www.newsbtc.com/2018/03/01/porsche-becomes-first-auto-manufacturer-to-utilize-blockchain-technology-in-cars/"
-  },
-  {
-    "title": "Wall Street Analyst Tommy Lee Says Retailer Adoption Could Lead to Bitcoin Price Surge",
-    "url": "https://www.newsbtc.com/2018/02/28/wall-street-analyst-tommy-lee-predicts-bitcoin-surge-retailer-adoption/",
-    "description": "\u003cp\u003eEver the Bitcoin bull, Fundstrat\u0026#8217;s Tommy Lee has today predicted a full recovery and then some in the cryptocurrency market within 2018. He cites crypto-related announcements from various international companies as contributing to the restoration of lost confidence. Rakuten, Starbucks, Facebook, and Amazon Thought to be Looking Towards Crypto Lee, the co-founder of Fundstrat Global \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/wall-street-analyst-tommy-lee-predicts-bitcoin-surge-retailer-adoption/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eWall Street Analyst Tommy Lee Says Retailer Adoption Could Lead to Bitcoin Price Surge\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/wall-street-analyst-tommy-lee-predicts-bitcoin-surge-retailer-adoption/\"\u003eWall Street Analyst Tommy Lee Says Retailer Adoption Could Lead to Bitcoin Price Surge\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
-    "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/28213410/tommy.jpg",
-    "publishedDate": "2018-02-28T14:00:12.000-0800",
-    "source": "News BTC",
-    "categories": [
-      "all",
-      "vertical",
-      "bitcoin"
-    ],
-    "guid": "https://www.newsbtc.com/2018/02/28/wall-street-analyst-tommy-lee-predicts-bitcoin-surge-retailer-adoption/"
-  },
-  {
-    "title": "What’s New in the Cryptocurrency Market in 2018?",
-    "url": "https://www.newsbtc.com/2018/02/28/whats-new-in-the-cryptocurrency-market-in-2018/",
-    "description": "\u003cp\u003eCryptocurrency is the new favourite word for investors and geeks. It’s one of the most exciting commodities to invest with its high volatile nature belonging to one of the most developing software .i.e. Blockchain. Over the past 6-8 months, we have seen cryptocurrencies reach to the best of their prices and to the least of \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/whats-new-in-the-cryptocurrency-market-in-2018/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eWhat\u0026#8217;s New in the Cryptocurrency Market in 2018?\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/whats-new-in-the-cryptocurrency-market-in-2018/\"\u003eWhat\u0026#8217;s New in the Cryptocurrency Market in 2018?\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
-    "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/28122309/Cryptocurrency-Market.jpg",
-    "publishedDate": "2018-02-28T12:48:20.000-0800",
-    "source": "News BTC",
-    "categories": [
-      "all",
-      "vertical",
-      "general",
-      "general"
-    ],
-    "guid": "https://www.newsbtc.com/2018/02/28/whats-new-in-the-cryptocurrency-market-in-2018/"
-  },
-  {
-    "title": "Texas Securities Board Issues Another Cease-and-Desist, This Time Against LeadInvest",
-    "url": "https://www.newsbtc.com/2018/02/28/texas-securities-board-issues-another-cease-desist-time-leadinvest/",
-    "description": "\u003cp\u003eThis week, the Texas State Securities Board (TSSB) issued another cease-and-desist order: This time to a “company” called LeadInvest. The agency contends that LeadInvest fabricated its management team and illegally solicited investors for a cryptocurrency mining operation and lending program. On February 26th 2018, the Securities Commissioner of the State of Texas, Travis J. Iles, signed and \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/texas-securities-board-issues-another-cease-desist-time-leadinvest/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eTexas Securities Board Issues Another Cease-and-Desist, This Time Against LeadInvest\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/texas-securities-board-issues-another-cease-desist-time-leadinvest/\"\u003eTexas Securities Board Issues Another Cease-and-Desist, This Time Against LeadInvest\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
-    "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/28185658/texas1.jpg",
-    "publishedDate": "2018-02-28T12:00:48.000-0800",
-    "source": "News BTC",
-    "categories": [
-      "all",
-      "vertical"
-    ],
-    "guid": "https://www.newsbtc.com/2018/02/28/texas-securities-board-issues-another-cease-desist-time-leadinvest/"
-  },
-  {
-    "title": "Blockchain Bringing Convenience and Control to the Hotel Industry",
-    "url": "https://www.newsbtc.com/2018/02/28/blockchain-bringing-convenience-control-hotel-industry/",
-    "description": "\u003cp\u003eThe next era of blockchain development is rolling out, with features like smart contracts and faster transactions making crypto much more than just a means of exchange. These simple features are making a lot of new business models possible. Smart contracts make many classes of transactions almost completely automated, removing any need for central servers \u0026#8230; \u003ca href\u003d\"https://www.newsbtc.com/2018/02/28/blockchain-bringing-convenience-control-hotel-industry/\" class\u003d\"more-link\"\u003eContinue reading \u003cspan class\u003d\"screen-reader-text\"\u003eBlockchain Bringing Convenience and Control to the Hotel Industry\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eThe post \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com/2018/02/28/blockchain-bringing-convenience-control-hotel-industry/\"\u003eBlockchain Bringing Convenience and Control to the Hotel Industry\u003c/a\u003e appeared first on \u003ca rel\u003d\"nofollow\" href\u003d\"https://www.newsbtc.com\"\u003eNewsBTC\u003c/a\u003e.\u003c/p\u003e\n",
-    "imageURL": "https://s3.amazonaws.com/main-newsbtc-images/2018/02/28194750/concierge.png",
-    "publishedDate": "2018-02-28T11:51:59.000-0800",
-    "source": "News BTC",
-    "categories": [
-      "all",
-      "vertical",
-      "blockchain"
-    ],
-    "guid": "https://www.newsbtc.com/2018/02/28/blockchain-bringing-convenience-control-hotel-industry/"
   },
   {
     "title": "U.S. Commodities Regulator Allows Its Employees to Trade Cryptocurrencies",

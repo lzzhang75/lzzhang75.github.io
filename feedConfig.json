@@ -3,195 +3,195 @@
     "title": "all",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-all.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-all.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-all.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-all.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-all.json?generation\u003d1519878354014724\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-all.json?generation\u003d1519884286238164\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "market",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-market.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-market.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-market.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-market.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-market.json?generation\u003d1519878354431655\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-market.json?generation\u003d1519884286815745\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "vertical",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-vertical.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-vertical.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-vertical.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-vertical.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-vertical.json?generation\u003d1519878354965061\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-vertical.json?generation\u003d1519884287447751\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "blockchain",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-blockchain.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-blockchain.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-blockchain.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-blockchain.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-blockchain.json?generation\u003d1519878355413246\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-blockchain.json?generation\u003d1519884288268295\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "crypto",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-crypto.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-crypto.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-crypto.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-crypto.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-crypto.json?generation\u003d1519878355800962\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-crypto.json?generation\u003d1519884288814604\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "general",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-general.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-general.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-general.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-general.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-general.json?generation\u003d1519878356415580\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-general.json?generation\u003d1519884289857776\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "exchange",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-exchange.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-exchange.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-exchange.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-exchange.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-exchange.json?generation\u003d1519878356893748\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-exchange.json?generation\u003d1519884290375639\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "ico",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-ico.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-ico.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-ico.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-ico.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-ico.json?generation\u003d1519878357217712\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-ico.json?generation\u003d1519884291100135\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "coin",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-coin.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-coin.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-coin.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-coin.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-coin.json?generation\u003d1519878357655867\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-coin.json?generation\u003d1519884291640970\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "bitcoin",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-bitcoin.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-bitcoin.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-bitcoin.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-bitcoin.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-bitcoin.json?generation\u003d1519878358157273\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-bitcoin.json?generation\u003d1519884292595607\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "ethereum",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-ethereum.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-ethereum.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-ethereum.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-ethereum.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-ethereum.json?generation\u003d1519878358584662\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-ethereum.json?generation\u003d1519884293386982\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "bitcoincash",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-bitcoincash.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-bitcoincash.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-bitcoincash.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-bitcoincash.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-bitcoincash.json?generation\u003d1519878359090042\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-bitcoincash.json?generation\u003d1519884293921976\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "litecoin",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-litecoin.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-litecoin.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-litecoin.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-litecoin.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-litecoin.json?generation\u003d1519878359410755\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-litecoin.json?generation\u003d1519884294563700\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "ripple",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-ripple.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-ripple.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-ripple.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-ripple.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-ripple.json?generation\u003d1519878359886916\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-ripple.json?generation\u003d1519884295023114\u0026alt\u003dmedia"
     ]
   },
   {
     "title": "altcoin",
     "iconImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/2000px-Bitcoin_logo.svg.png",
     "storageLocations": [
-      "gs://coin-news-b6e9a.appspot.com/feed/98ce0461-5b66-45ac-8a49-46bbd8812210/feed-altcoin.json"
+      "gs://coin-news-b6e9a.appspot.com/feed/363bed5c-60d4-42e1-8ca8-e38c1d284ec7/feed-altcoin.json"
     ],
     "selfLinks": [
-      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-altcoin.json"
+      "https://www.googleapis.com/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-altcoin.json"
     ],
     "mediaLinks": [
-      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F98ce0461-5b66-45ac-8a49-46bbd8812210%2Ffeed-altcoin.json?generation\u003d1519878360238517\u0026alt\u003dmedia"
+      "https://www.googleapis.com/download/storage/v1/b/coin-news-b6e9a.appspot.com/o/feed%2F363bed5c-60d4-42e1-8ca8-e38c1d284ec7%2Ffeed-altcoin.json?generation\u003d1519884295558767\u0026alt\u003dmedia"
     ]
   }
 ]
