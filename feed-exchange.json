@@ -4,6 +4,22 @@
   "description": "This feed has been created using ROME - Java syndication utilities",
   "items": [
     {
+      "title": "Coinbase: BTC Buys And Sells Issue Resolved, Bitcoin Performance Still ‘Degraded’ - Cointelegraph",
+      "url": "https://cointelegraph.com/news/coinbase-btc-buys-and-sells-issue-resolved-bitcoin-performance-still-degraded",
+      "description": "\n                \u003cimg src\u003d\"https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZTEzMTJmNzdlODg0MzcyMmIwZjU3MWZiM2JlMTk3ZjlmLmpwZw\u003d\u003d.jpg\"\u003e\u003cp\u003eCryptocurrency exchange Coinbase has fixed the processes that caused Bitcoin buys and sells to become temporarily unavailable on the platform. #NEWS\u003c/p\u003e\n            ",
+      "imageURL": "https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMzEyZjc3ZTg4NDM3MjJiMGY1NzFmYjNiZTE5N2Y5Zi5qcGc\u003d.jpg",
+      "publishedDate": "2018-02-28T14:58:21.000-0800",
+      "source": "Cointelegraph",
+      "categories": [
+        "all",
+        "vertical",
+        "bitcoin",
+        "exchange",
+        "bitcoin"
+      ],
+      "guid": "https://cointelegraph.com/news/coinbase-btc-buys-and-sells-issue-resolved-bitcoin-performance-still-degraded"
+    },
+    {
       "title": "Coinbase: Bitcoin Buys And Sells ‘Intermittently Available’ - Cointelegraph",
       "url": "https://cointelegraph.com/news/coinbase-bitcoin-buys-and-sells-intermittently-available",
       "description": "\n                \u003cimg src\u003d\"https://cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWRnZTA0ZjgzNTAwNDZkN2M5N2Q2Y2Y0MGQ5ZWM5N2ZiN2VjLmpwZw\u003d\u003d.jpg\"\u003e\u003cp\u003eCrypto exchange and wallet Coinbase reported today that BTC buys, sells are temporarily unavailable #NEWS\u003c/p\u003e\n            ",
